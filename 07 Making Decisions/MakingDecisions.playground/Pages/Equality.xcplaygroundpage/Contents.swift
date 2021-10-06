@@ -37,3 +37,6 @@ hundred == nineTimesTen
 //: Find out more ways to compare values on the next page.
 //:
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: More Comparisons](@next)
+let x = 5
+let y = 5
+x == y

@@ -46,3 +46,6 @@
 //: Learn how to add decision points to your code on the next page.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: Conditionals](@next)
+let x = 5
+let y = 2.1
+// x < y an error appears

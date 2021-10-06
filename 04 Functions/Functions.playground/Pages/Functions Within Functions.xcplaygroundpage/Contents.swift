@@ -39,3 +39,21 @@ func laughingSubmarine() {
 //: On the next page, learn about one of the things that can go wrong when using functions of functions.
 //:
 //: [Previous](@previous)  |  page 6 of 12  |  [Next: Infinite Loops](@next)
+func rowTheBoat1() {
+    print("Row, row, row your boat")
+    print("Gently down the stream")
+}
+
+func  laughingSubmarine1() {
+    print("Ha! Ha! Fooled you all")
+    print("I’m a submarine")
+}
+
+
+func verseOne1() {
+    rowTheBoat()
+    laughingSubmarine1()
+}
+
+verseOne1()
+

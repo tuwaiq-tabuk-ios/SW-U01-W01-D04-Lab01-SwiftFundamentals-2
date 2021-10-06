@@ -23,13 +23,15 @@
  - callout(Exercise): Write some more incorrect addition statements. Before you write each line, try to guess what errors will be produced. Remember to comment out the lines of code from the earlier experiment first.
  */
 
-
-
-
-
-
-
-
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+//experiment:
+//"banana" + 1
+//2 + "2"
+
+
+//exercise:
+// an error will appear because of the incorrect addition string + integer, different types summation will always lead to an error
+//var x = "Hajar" + 27
+//var y = 6 + "27"
