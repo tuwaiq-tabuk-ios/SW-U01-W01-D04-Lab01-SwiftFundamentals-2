@@ -39,10 +39,18 @@ let space = " "
 
 var statement = ""
 statement += word1
+statement += " "
+statement += word2
+statement += " "
+statement += word3
+statement += " "
+statement += word4
 
-
-
-
+//Replace the line of code score = score + 2 above using += instead. Note that the result in the results bar is the same. Add a few more lines of code that add more points using the += operator.
+score = 10
+score = score + 2
+score += 7
+score += 15
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)

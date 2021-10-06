@@ -3,8 +3,8 @@
  
  You’ll recall that `else` statements hold code that’s run when the result of an `if` statement is not true. They can reduce the amount of code needed, and they make it clearer what the flow of a program should be.
 */
-let secretWord = "banana"
-let guess = "apple"
+//let secretWord = "banana"
+//let guess = "apple"
 
 if secretWord == guess {
     print("Your guess is right.")
@@ -15,3 +15,16 @@ if secretWord != guess {
 //: - callout(Exercise): Rewrite the code above to use an else statement.
 //:
 //: [Previous](@previous)  |  page 12 of 13  |  [Next: Exercise: Leap Years](@next)
+let secretWord = "banana"
+let guess = "apple"
+
+if secretWord == guess {
+    print("Your guess is right.")
+}
+if secretWord != guess {
+    print("Your guess is wrong.")
+}
+else {
+    "your guee is not exist"
+    
+}
