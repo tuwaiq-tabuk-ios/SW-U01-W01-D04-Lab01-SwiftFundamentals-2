@@ -26,3 +26,24 @@ let c = 20
 //: - callout(Exercise): Add code after each comment above to follow the instructions. (For the greater than and less than operators, remember the rule about the hungry mouth.)
 //:
 //: [Previous](@previous)  |  page 11 of 13  |  [Next: Exercise: Else Practice](@next)
+let a2 = 20
+let b2 = 30
+let c2 = 20
+
+if a == c {
+    print("a and c are the same")
+}
+
+
+else if a < b {
+    print("b is ahead of a")
+}
+
+
+else if b > a {
+    print(" a is not winning against b")
+}
+
+else {
+    print(" a is either losing to or trid with c")
+}

@@ -5,6 +5,8 @@
  
  Because functions can contain multiple lines of code, the declaration is a little more complicated. Here is a very simple function:
 */
+
+import Darwin
 func rowTheBoat() {
     print("Row, row, row your boat")
     print("Gently down the stream")
@@ -26,11 +28,11 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
-
-
-
-
-
+func PrintTheBoat() {
+print("Hi")
+    
+}
+PrintTheBoat()
 
 
 //: Next, learn about how to think about tasks and divide them up in a way that makes sense.

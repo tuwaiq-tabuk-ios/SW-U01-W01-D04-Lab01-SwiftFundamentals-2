@@ -35,3 +35,8 @@ Next, learn how to work with variables.
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: Working with Variables](@next)
 // Experiment 1
 // Assign a new value
+var currentLocation2 = "New Jersey"
+
+currentLocation = "California"
+
+currentLocation = "Tabuk"
