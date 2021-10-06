@@ -8,7 +8,6 @@
   For example this variable will be assigned an initial value of zero:
 */
 var score = 0
-//: If the player scores ten points, you can update the score:
 score = 10
 //: Now the player scores another five points, so you can update the score again:
 score = 15
@@ -40,3 +39,7 @@ score = score + 3
 //: Next, learn a shortcut for `score = score + 5`.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: A Shortcut](@next)
+var Score2 = 5
+Score2 = Score2 + Score2
+print ( Score2 )
+

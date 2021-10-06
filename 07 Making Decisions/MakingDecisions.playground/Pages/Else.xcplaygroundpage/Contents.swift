@@ -36,3 +36,20 @@ if videoLength < 5 {
  
 [Previous](@previous)  |  page 6 of 13  |  [Next: Else If](@next)
 */
+//Experiment1
+
+if videoLength < 11 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}
+
+//Experiment2
+
+if videoLength >= 5 {
+    "That's lovely."
+}
+
+if videoLength <= 5 {
+    "If I blinked, I'd miss it."
+}

@@ -19,3 +19,5 @@ no
 //: If `true` and `false` are the answers, how do you ask the questions?
 //:
 //: [Previous](@previous)  |  page 2 of 13  |  [Next: Equality](@next)
+let goSchool = yes
+let eatDinner = no

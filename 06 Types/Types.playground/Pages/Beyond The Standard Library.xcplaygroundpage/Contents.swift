@@ -17,3 +17,10 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+//Experiment1
+/*
+ PersonDescription
+ int for a Height And Age
+ string for a Shape And Color Eyes
+ birth for a Brith
+ */

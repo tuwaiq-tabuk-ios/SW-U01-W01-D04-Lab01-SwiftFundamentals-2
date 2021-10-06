@@ -3,9 +3,12 @@
  
  To use a framework in your program, you have to `import` it. That's done like this:
 */
+
 import Foundation
+
 //: One of the types from the Foundation framework is `Date`, which represents a specific moment in time. To create a `Date` representing _right now_, you simply use `Date()`:
-let today = Date()
+// let today = Date()
+// Did Not Know Date()
 /*:
  You'll see today's date and time in the results sidebar.
  
@@ -33,3 +36,13 @@ let today = Date()
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Wrapup](@next)
 */
+//Eperiment1
+//Solution above
+
+//Eperiment2
+let someDate = Date() + 10
+let someDate2 = Date() + 525600
+let someDate3 = Date() - 525600
+print (someDate)
+print (someDate2)
+print(someDate3)

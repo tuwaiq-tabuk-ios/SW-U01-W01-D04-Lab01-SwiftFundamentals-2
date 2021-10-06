@@ -46,3 +46,7 @@
 //: Learn how to add decision points to your code on the next page.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: Conditionals](@next)
+2 < 3.3
+// 4 != "5"
+// 🍨 >= 🍢
+106 <= 9.9

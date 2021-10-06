@@ -33,3 +33,22 @@
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+//Experiment1
+
+var Banana = 1
+Banana = 2 + 2
+
+
+//Exercise
+
+/*
+ var Name = "Mohammed"
+Name += 25
+ */
+
+/*
+ let number = 12
+print ( number + "M")
+ */
+
+

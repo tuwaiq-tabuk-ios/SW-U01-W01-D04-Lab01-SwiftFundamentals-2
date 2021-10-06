@@ -28,7 +28,14 @@ merrilyDream()
 breatheBetweenVerses()
 rowTheBoat()
 //: - callout(Exercise): Write a function called `crocodileScream()` for the second two lines of the second verse, and call it to complete the song in the console.
+func crocodileScream () {
+    merrilyDream()
+}
 
+rowTheBoat()
+merrilyDream()
+breatheBetweenVerses()
+rowTheBoat()
 //: Next, learn about making larger groups of tasks.
 //:
 //: [Previous](@previous)  |  page 5 of 12  |  [Next: Functions Within Functions](@next)
