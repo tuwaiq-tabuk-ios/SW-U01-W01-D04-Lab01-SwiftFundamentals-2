@@ -36,3 +36,8 @@ if videoLength < 5 {
  
 [Previous](@previous)  |  page 6 of 13  |  [Next: Else If](@next)
 */
+if videoLength < 17 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}

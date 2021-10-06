@@ -7,22 +7,35 @@ let a = 20
 let b = 30
 let c = 20
 
-// If a is equal to c, print "a and c are the same"
 
+if a == c {
+    print ("a and c are the same")
+    
+}
 
+else if a < b {
+    print("b is ahead of a")
+    
+}
 
-// If a is less than b, print "b is ahead of a"
-
-
-
-// If b is greater than a, print "a is not winning against b"
-
-
-
-// If a is less than or equal to c, print "a is either losing to or tied with c"
-
+else if b > a {
+    print(" a is not winning against b")
+}
+else {
+    print("a is either losing to or tied with c")
+    
+}
 
 
 //: - callout(Exercise): Add code after each comment above to follow the instructions. (For the greater than and less than operators, remember the rule about the hungry mouth.)
 //:
 //: [Previous](@previous)  |  page 11 of 13  |  [Next: Exercise: Else Practice](@next)
+if a == b {
+    print(" \(a) > \(b) this error")
+}
+if a > b {
+    print(" \(a) > \(b) this error")
+}
+if a < b {
+    print(" \(a) > \(b) this correct ")
+}

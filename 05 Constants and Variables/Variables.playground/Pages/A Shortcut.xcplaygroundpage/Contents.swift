@@ -39,10 +39,18 @@ let space = " "
 
 var statement = ""
 statement += word1
+statement += space
+statement += word2
+statement += space
+statement += word3
+statement += space
+statement += word4
 
-
+print(statement)
 
 
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+score += 2
+
