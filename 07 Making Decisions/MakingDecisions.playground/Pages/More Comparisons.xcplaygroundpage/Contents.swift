@@ -39,7 +39,9 @@
 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
-
+4 > 5
+6 > 5
+"rasha" < "saud"
 
 
 
