@@ -32,7 +32,9 @@ score = score + 3
  score = score + score
  ```
 */
+var score2 = 5
 
+score2 = score2 + score2
 
 
 

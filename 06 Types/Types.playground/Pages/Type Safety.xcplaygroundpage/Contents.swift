@@ -33,3 +33,18 @@
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+//Exbermint1
+
+
+
+"banana" + "1"
+2 + 2
+
+
+
+
+//exercise 2
+
+ //"milke" + 10
+
+//The error here is the flag of adding a string

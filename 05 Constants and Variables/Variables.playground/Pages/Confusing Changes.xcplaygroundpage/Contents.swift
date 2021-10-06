@@ -26,3 +26,20 @@ Would mistakes be less likely if the plan didn't change?
  Speaking of errors, move on to learn about a common error when working with constants and variables.
  */
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Trying to Change a Constant](@next)
+
+// Is likely
+let mettingtime = "8:00 Pm"
+
+//mettingtime = "9:00 Pm"
+
+//mettingtime = "6:00 PM"
+
+//mettingtime = "6:30 Pm"
+
+
+//With all of these changes, how likely is it that everyone is going to end up at the right place at the right time?
+// Very high
+
+
+//Would mistakes be less likely if the plan didn't change?
+// Yes

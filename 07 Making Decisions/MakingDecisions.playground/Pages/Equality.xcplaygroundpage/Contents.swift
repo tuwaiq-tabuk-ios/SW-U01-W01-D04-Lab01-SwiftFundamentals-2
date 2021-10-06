@@ -33,7 +33,13 @@ hundred == nineTimesTen
 
 
 
-
 //: Find out more ways to compare values on the next page.
 //:
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: More Comparisons](@next)
+"ahmed" == "ahmed"
+
+"AHMED" == "MOHAAMED"
+
+//Can you check if two string values are equal?
+
+//YES
