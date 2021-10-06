@@ -4,7 +4,7 @@
  If Swift can’t work out the type of something, it will let you know.
  - experiment: Uncomment the line of code below and look at the error. Comment out again when you’re done.
 */
-// let mysteryConstant
+let mysteryConstant = 9
 /*: 
  The error `Type annotation missing in pattern` means that Swift is unable to infer — work out from the available information — the type of the constant.
  
@@ -25,3 +25,8 @@ result * 0.5
  
 [Previous](@previous)  |  page 8 of 13  |  [Next: Where Do Types Come From? ](@next)
 */
+
+
+//let mysteryConstant
+// The mistake is that there is no = or value
+let mysteryConstant2 = "Hello"

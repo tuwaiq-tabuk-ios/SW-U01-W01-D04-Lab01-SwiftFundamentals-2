@@ -1,11 +1,4 @@
-/*:
- ## Naming Things Revisited
- 
-In _Naming and Identifiers_ you explored the importance of naming things in real life and in programming.
- 
-In code, you’ve learned how to define a name and associate a value with it by declaring a constant:
- */
-let city = "Paris"
+  let city = "Paris"
 /*:
  You’ve also learned how to define a name and associate it with a list of statements by declaring a function:
  */
@@ -13,6 +6,7 @@ func printGreeting() {
     let greeting = "Hello"
     print(greeting)
 }
+printGreeting()
 /*:
 You may be starting to see a pattern. A large part of programming is making up things, giving them names, and then calling those things by name to use them.
  

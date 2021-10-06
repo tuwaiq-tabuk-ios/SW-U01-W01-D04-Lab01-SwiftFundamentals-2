@@ -17,3 +17,12 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+
+let TrainingShoeSize = 12
+
+let TrainingShoeBrand = ""
+
+let TrainingShoeData = ""
+
+let  TrainingShoePrice = 76
+

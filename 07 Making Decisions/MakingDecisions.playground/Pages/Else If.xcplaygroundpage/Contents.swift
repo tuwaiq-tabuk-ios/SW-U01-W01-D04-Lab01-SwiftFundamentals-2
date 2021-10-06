@@ -35,3 +35,12 @@ if anotherVideoLength < 5 {
 //: On the next page, learn how to use functions to make complicated decisions look simple. 
 //:
 //: [Previous](@previous)  |  page 7 of 13  |  [Next: Functions and Decisions](@next)
+let videoLength1 = 750
+
+if videoLength1 < 5 {
+    "If I blinked, I'd miss it."
+} else if videoLength1 > 500 {
+    "Don't worry, I know a good editor."
+} else {
+    "That was lovely."
+}
