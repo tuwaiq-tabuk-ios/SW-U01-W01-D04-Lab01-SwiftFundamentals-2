@@ -17,3 +17,7 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+let TrainingShoeSaiz = "42"
+let TrainingShoeBrandNaem = "Naeke"
+let TrainingShoeRlaes = "2019"
+let TrainingShoePraicinRial = 749

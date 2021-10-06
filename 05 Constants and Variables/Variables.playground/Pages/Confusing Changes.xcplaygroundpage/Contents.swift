@@ -26,3 +26,26 @@ Would mistakes be less likely if the plan didn't change?
  Speaking of errors, move on to learn about a common error when working with constants and variables.
  */
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Trying to Change a Constant](@next)
+var MeettengPlaes = "The movei"
+
+var MeettgTaime = "8:00PM"
+
+MeettengPlaes = "House Frinds"
+
+ MeettgTaime = "9:00PM"
+
+MeettengPlaes = "Ather Frinds House"
+
+ MeettgTaime = "6:00PM"
+
+
+MeettgTaime = "6:30PM"
+
+let AnaserText = "Meeting Taime \(MeettgTaime ) in place \(MeettengPlaes)"
+
+
+// With all of these changes, how likely is it that everyone is going to end up at the right place at the right time?
+// fry hai
+
+//Would mistakes be less likely if the plan didn't change?
+// Yes

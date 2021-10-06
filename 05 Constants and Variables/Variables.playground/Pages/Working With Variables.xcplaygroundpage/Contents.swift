@@ -32,6 +32,9 @@ score = score + 3
  score = score + score
  ```
 */
+score = 5
+score = score + score
+
 
 
 
@@ -40,3 +43,7 @@ score = score + 3
 //: Next, learn a shortcut for `score = score + 5`.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: A Shortcut](@next)
+// scor value equal 10
+score = 5
+score = score + score
+
