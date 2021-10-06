@@ -19,6 +19,7 @@ currentLocation = "California"
  - experiment: Below, add a line of code that assigns a new value to `currentLocation`:
  */
 // Assign a new value
+currentLocation = " tabuk"
 
 /*:
  In most ways, constants and variables are the same:
@@ -35,3 +36,4 @@ Next, learn how to work with variables.
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: Working with Variables](@next)
 // Experiment 1
 // Assign a new value
+currentLocation = " tabuk"

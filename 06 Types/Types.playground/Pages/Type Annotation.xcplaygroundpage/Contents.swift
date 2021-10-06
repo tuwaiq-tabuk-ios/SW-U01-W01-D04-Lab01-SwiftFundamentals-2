@@ -25,3 +25,5 @@ result * 0.5
  
 [Previous](@previous)  |  page 8 of 13  |  [Next: Where Do Types Come From? ](@next)
 */
+//let mysteryConstant = 12
+//Incomplete, no value
