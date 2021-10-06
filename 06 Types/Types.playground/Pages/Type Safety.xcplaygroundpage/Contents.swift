@@ -24,12 +24,21 @@
  */
 
 
-
-
-
-
-
-
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+print("---- Exercice 1 ----")
+//"banana" + 1
+//2 + "2"
+
+
+print("\n\n---- Exercice 2 ----")
+import Foundation
+
+var today = Date()
+//today = today + "2 days"
+
+
+var string1 = "Hello "
+var string2 = "World"
+var string3 = string1 + string2
