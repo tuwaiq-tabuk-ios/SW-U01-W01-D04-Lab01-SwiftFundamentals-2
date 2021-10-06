@@ -20,6 +20,7 @@ currentLocation = "California"
  */
 // Assign a new value
 
+
 /*:
  In most ways, constants and variables are the same:
 - Both use the same rules for names
@@ -35,3 +36,4 @@ Next, learn how to work with variables.
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: Working with Variables](@next)
 // Experiment 1
 // Assign a new value
+currentLocation = "saudi"

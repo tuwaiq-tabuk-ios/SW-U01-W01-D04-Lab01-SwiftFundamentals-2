@@ -25,3 +25,5 @@ result * 0.5
  
 [Previous](@previous)  |  page 8 of 13  |  [Next: Where Do Types Come From? ](@next)
 */
+// let mysteryConstant error There is no value
+

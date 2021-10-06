@@ -36,3 +36,17 @@ if videoLength < 5 {
  
 [Previous](@previous)  |  page 6 of 13  |  [Next: Else If](@next)
 */
+//ex1
+let videoLength2 = 3
+if videoLength2 < 5 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}
+// ex2
+let videoLength3 = 8
+if videoLength3 > 5 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}

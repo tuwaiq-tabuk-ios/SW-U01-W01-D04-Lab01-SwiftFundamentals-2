@@ -17,3 +17,7 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+let TrainingShoesize = 42
+let TrainingShoebrand = "nike"
+let TrainingShoedata = 2021
+let TrainingShoepriceindollars = 100

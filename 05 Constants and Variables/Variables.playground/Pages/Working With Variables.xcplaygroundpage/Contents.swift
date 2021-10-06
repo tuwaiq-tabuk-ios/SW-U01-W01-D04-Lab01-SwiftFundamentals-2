@@ -24,6 +24,7 @@ score
 //: But when a calculation is on the right-hand side of an assignment, the variable stores the calculation's result and takes on a brand new value:
 score = score + 5
 score = score + 3
+
 /*:
  - experiment: What do you think the value of `score` would be after these lines? Try it and find out!
  
@@ -32,11 +33,12 @@ score = score + 3
  score = score + score
  ```
 */
-
-
+score = 5
+score = score + score
 
 
 
 //: Next, learn a shortcut for `score = score + 5`.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: A Shortcut](@next)
+
