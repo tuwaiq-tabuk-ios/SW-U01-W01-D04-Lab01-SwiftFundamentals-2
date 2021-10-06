@@ -24,12 +24,21 @@ let today = Date()
 */
 
 
-
-
-
-
 /*:
  Think through what you’ve learned on the next page.
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Wrapup](@next)
 */
+
+// Experiment 1
+//Without importing the Foundation framework, Swift will not recognize the code Date() and will give me an error.
+
+
+// Experiment 2
+// when you add big numbers? What about small numbers?
+// the number is millisecond will addion on date and give me the new date after addetion
+
+let someDate = Date() + 0
+
+print(someDate)
+print(Date() + 10)

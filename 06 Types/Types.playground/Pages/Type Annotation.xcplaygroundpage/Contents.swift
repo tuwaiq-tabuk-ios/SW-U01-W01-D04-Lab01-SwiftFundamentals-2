@@ -25,3 +25,7 @@ result * 0.5
  
 [Previous](@previous)  |  page 8 of 13  |  [Next: Where Do Types Come From? ](@next)
 */
+// Experiment 1
+
+// The constent missing in pattern
+//let mysteryConstant

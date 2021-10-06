@@ -33,3 +33,22 @@
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+
+// Experiment 1
+
+
+// Swift Can't applid operands of type 'String' and 'Int'
+//"banana" + 1
+
+// Swift Can't applid operands of type 'Int' and 'String'
+//2 + "2"
+
+
+// Exercise 1
+
+// Swift Can't applid operands of type 'String' and 'Int'
+//"Marzouq" + 10
+
+// Swift Can't applid operands of type 'Int' and 'String'
+//5 + "6"
+

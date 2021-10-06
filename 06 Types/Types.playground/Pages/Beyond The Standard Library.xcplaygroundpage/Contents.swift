@@ -17,3 +17,17 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+// Experment 1
+
+let TrainingShoeSize : Int = 40
+
+let TrainingShoeBrandName : String = "Adidas"
+
+let TrainingShoeRelease = Date()
+
+let TrainingShoePrice : Int = 50
+
+print(TrainingShoeRelease)
+
+
+
