@@ -7,11 +7,25 @@ let secretWord = "banana"
 let guess = "apple"
 
 if secretWord == guess {
+   print("Your guess is right.")
+}
+if secretWord != guess {
+  print("Your guess is wrong.")
+}
+//: - callout(Exercise): Rewrite the code above to use an else statement.
+//:
+//: [Previous](@previous)  |  page 12 of 13  |  [Next: Exercise: Leap Years](@next)
+let secretWord1 = "banana"
+let guess1 = "apple"
+
+if secretWord == guess {
     print("Your guess is right.")
 }
 if secretWord != guess {
     print("Your guess is wrong.")
 }
-//: - callout(Exercise): Rewrite the code above to use an else statement.
-//:
-//: [Previous](@previous)  |  page 12 of 13  |  [Next: Exercise: Leap Years](@next)
+else {
+    "your guee is not exist"
+    
+}
+
