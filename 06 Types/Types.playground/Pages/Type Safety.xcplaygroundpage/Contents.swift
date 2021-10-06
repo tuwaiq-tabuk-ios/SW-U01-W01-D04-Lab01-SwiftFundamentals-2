@@ -28,8 +28,17 @@
 
 
 
-
-
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+//ex1
+
+"banana" + "1"
+2 + 2
+
+
+//exercise
+"mohammad al atwi "
+//the my name
+20 + 6
+//the my eag

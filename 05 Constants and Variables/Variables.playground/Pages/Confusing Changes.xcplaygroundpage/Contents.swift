@@ -26,3 +26,9 @@ Would mistakes be less likely if the plan didn't change?
  Speaking of errors, move on to learn about a common error when working with constants and variables.
  */
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Trying to Change a Constant](@next)
+ var mettingTime = " 8 "
+mettingTime = " 9 "
+mettingTime = "6 "
+mettingTime = "6:30"
+
+let anser = " gathering time ، "

@@ -27,9 +27,17 @@ let today = Date()
 
 
 
-
 /*:
  Think through what you’ve learned on the next page.
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Wrapup](@next)
 */
+//ex1
+//import Foundation
+//Without importing the framework, Swift will not recognize the code Date() and will give my error.
+
+//ex2
+let someDate = Date() + 525600
+
+
+//As the number increases, the number of days increases

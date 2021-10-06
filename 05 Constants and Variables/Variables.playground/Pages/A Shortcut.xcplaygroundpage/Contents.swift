@@ -46,3 +46,26 @@ statement += word1
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+//experiment 1
+score += 2
+score += 4
+
+//experiment 2
+let word11 = "Compound"
+let word22 = "assignment"
+let word33 = "is"
+let word44 = "useful"
+let space1 = " "
+
+var statement1 = ""
+statement1 += word11
+statement1 += space1
+statement1 += word22
+statement1 += space1
+statement1 += word33
+statement1 += space1
+statement1 += word44
+
+
+
+

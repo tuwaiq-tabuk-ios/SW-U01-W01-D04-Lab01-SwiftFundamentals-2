@@ -17,3 +17,9 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+let TrainingShoesize = 40
+let brand = "CH"
+let Date = 1995
+let  price  = 10
+
+
