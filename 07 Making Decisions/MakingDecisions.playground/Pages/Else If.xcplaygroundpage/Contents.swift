@@ -20,18 +20,22 @@ if videoLength < 5 {
  
  You can add more than one `else if` statement, but the first one that is `true` will be the one that “wins”:
 */
-let anotherVideoLength = 75000
+
+//: Notice that the final `else if` statement, even though it is `true`, does not get executed. Once a conditional is `true`, the later ones are not checked. The order of your code is very important!
+//:
+//: On the next page, learn how to use functions to make complicated decisions look simple. 
+//:
+//: [Previous](@previous)  |  page 7 of 13  |  [Next: Functions and Decisions](@next)
+let anotherVideoLength = 2
 if anotherVideoLength < 5 {
     "If I blinked, I'd miss it."
 } else if anotherVideoLength > 50000 {
     "This is too long for anyone."
 } else if anotherVideoLength > 500 {
     "Don't worry, I know a good editor."
-} else {
+} else if anotherVideoLength < 100 {
+        "Don't worry,."
+    }
+ else {
     "That was lovely."
 }
-//: Notice that the final `else if` statement, even though it is `true`, does not get executed. Once a conditional is `true`, the later ones are not checked. The order of your code is very important!
-//:
-//: On the next page, learn how to use functions to make complicated decisions look simple. 
-//:
-//: [Previous](@previous)  |  page 7 of 13  |  [Next: Functions and Decisions](@next)

@@ -3,11 +3,6 @@
  
  Declaring a variable is almost exactly like declaring a constant. But instead of using the keyword `let`, you use the keyword `var`:
  */
-// Declaring a constant
-let placeOfBirth = "New Jersey"
-
-// Declaring a variable
-var currentLocation = "New Jersey"
 
 /*:
  Once you have declared a variable, you can assign a new value to it:
@@ -35,3 +30,12 @@ Next, learn how to work with variables.
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: Working with Variables](@next)
 // Experiment 1
 // Assign a new value
+
+let placeOfBirth = "New Jersey"
+
+// Declaring a variable
+var currentLocation = "New Jersey"
+
+currentLocation = "California"
+
+currentLocation = "Tabuk"

@@ -23,3 +23,14 @@
  
  page 1 of 12  |  [Next: Calling a Function](@next)
  */
+func myMother() {
+    print("Me sister come to school")
+    print("by bus ")
+    print("by walk ")
+    print("by car ")
+    
+}
+
+myMother()
+
+
