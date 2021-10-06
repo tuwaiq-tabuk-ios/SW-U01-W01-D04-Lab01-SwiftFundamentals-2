@@ -17,3 +17,8 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+
+
+let TrainingShoeSize = 44
+
+let TrainingShoeBrand = DADS 

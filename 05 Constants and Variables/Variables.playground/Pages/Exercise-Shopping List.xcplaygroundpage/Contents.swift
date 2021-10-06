@@ -17,3 +17,13 @@ let newLine = "\n"
 
 
 //: [Previous](@previous)  |  page 12 of 13  |  [Next: Exercise: 501](@next)
+var menu = ""
+menu += eggs
+menu += milk
+menu += cheese
+menu += bread
+menu += rice
+menu += newLine
+
+
+//تعديل؟

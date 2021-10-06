@@ -13,3 +13,4 @@
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Exercise: Making a Shopping List](@next)
 */
+var

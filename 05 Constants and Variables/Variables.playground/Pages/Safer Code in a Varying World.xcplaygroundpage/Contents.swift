@@ -41,4 +41,22 @@ The second option doesn't leave you with a very useful program, does it?
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Safer Code in an Unexpected World](@next)
 */
+let friendBeverageChoice2 = "coffee"
 
+driveAcrossTown()
+buyACoffeeMaker()
+
+findCoffeeGrinder()
+
+
+
+findCoffeeBeans()
+driveHome()
+setUpCoffeeGrinder()
+
+
+
+grindBeans()
+makeFriendDrinkCoffee()
+//The second option doesn't leave you with a very useful program, does it?
+// yes

@@ -9,6 +9,7 @@ func rowTheBoat() {
     print("Row, row, row your boat")
     print("Gently down the stream")
 }
+
 /*:
  The _name_ of the function is `rowTheBoat()`. You will learn more about the `()` later on, but for now remember that any identifier followed by parentheses is a function.
  
@@ -26,7 +27,11 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
-
+func naume() {
+    print("my naume azooz" )
+    
+}
+naume()
 
 
 
