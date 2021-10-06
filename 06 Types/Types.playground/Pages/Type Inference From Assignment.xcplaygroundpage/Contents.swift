@@ -11,8 +11,8 @@
  
  The value on the right hand side will have a type, because it already exists. `leftHandSide` will be inferred to have the same type.
 */
-let string = "42"
-let anotherString = string
+//let string = "42"
+//let anotherString = string
 /*:
  In this example, `string` is of type `String` because it is created from a literal. And `anotherString` is also of type `String`, because it is created from a `String`.
  
@@ -23,3 +23,5 @@ Next, find out what to do when type inference doesn’t work.
  
 [Previous](@previous)  |  page 7 of 13  |  [Next: Type Annotation](@next)
 */
+let string = 42
+let anotherString = string   

@@ -3,21 +3,21 @@
  
  The code to display a video message contains two very similar statements. This approach can be slow, confusing, and, an easy way to make mistakes — as you saw in the experiment on the previous page.
 */
-let videoLength = 5
-
-if videoLength >= 5 {
-    "That's lovely."
-}
-
-if videoLength < 5 {
-    "If I blinked, I'd miss it."
-}
-//: What you really want is to be able to say “If the value is less than 5, do this; otherwise, do something else”. You can do that with the `else` keyword:
-if videoLength < 5 {
-    "If I blinked, I'd miss it."
-} else {
-    "That's lovely."
-}
+//let videoLength = 5
+//
+//if videoLength >= 5 {
+//    "That's lovely."
+//}
+//
+//if videoLength < 5 {
+//    "If I blinked, I'd miss it."
+//}
+////: What you really want is to be able to say “If the value is less than 5, do this; otherwise, do something else”. You can do that with the `else` keyword:
+//if videoLength < 5 {
+//    "If I blinked, I'd miss it."
+//} else {
+//    "That's lovely."
+//}
 /*:
  This is called an _if/else statement_. It works like this:
  - `if`…
@@ -36,3 +36,17 @@ if videoLength < 5 {
  
 [Previous](@previous)  |  page 6 of 13  |  [Next: Else If](@next)
 */
+let videoLength = 7
+
+if videoLength >= 5 {
+    "That's lovely."
+}
+
+if videoLength < 5 {
+    "If I blinked, I'd miss it."
+}
+if videoLength < 5 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}

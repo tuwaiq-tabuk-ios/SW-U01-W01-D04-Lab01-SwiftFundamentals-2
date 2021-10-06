@@ -10,15 +10,15 @@
  
  The code is similar to how you’d write it in prose:
 */
-let videoLength = 3
-
-if videoLength < 5 {
-    "If I blinked, I'd miss it!"
-}
-
-if videoLength >= 5 {
-    "That's lovely."
-}
+//let videoLength = 3
+//
+//if videoLength < 5 {
+//    "If I blinked, I'd miss it!"
+//}
+//
+//if videoLength >= 5 {
+//    "That's lovely."
+//}
 /*:
  
  This is called an _if statement_. It works like this:
@@ -38,3 +38,13 @@ if videoLength >= 5 {
 
 [Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
 */
+// it changed
+let videoLength = 10
+
+if videoLength < 5 {
+    "If I blinked, I'd miss it!"
+}
+
+if videoLength >= 5 {
+    "That's lovely."
+}

@@ -20,9 +20,29 @@
  \
  After each round, `print` some statements that your opponents might make. If you can, use the value of your current score in their statements.
  */
+var overallScore = 501
+var roundScore = 0
+//first Throw
+roundScore += 10
+roundScore += 24
+roundScore += 0
+overallScore -= roundScore
+roundScore = 0
 
-
-
+print( "Best luck in the second round Aisha!")
+//Second Throw
+roundScore += 25
+roundScore += 4
+roundScore += 7
+overallScore -= roundScore
+roundScore = 0
+print( "you will do better don not worry Aisha!")
+// Third Round and the Final
+roundScore += 10
+roundScore += 19
+roundScore += 8
+overallScore -= roundScore
+print ("I think I did very great job my score is: \(overallScore)")
 /*:
  
  _Copyright © 2017 Apple Inc._

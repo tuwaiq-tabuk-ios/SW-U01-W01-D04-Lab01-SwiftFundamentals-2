@@ -26,3 +26,24 @@ Would mistakes be less likely if the plan didn't change?
  Speaking of errors, move on to learn about a common error when working with constants and variables.
  */
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Trying to Change a Constant](@next)
+let groupOfFriends = 6
+var meetingTime = "8 PM"
+var movieName = ""
+var massage = ""
+var placeNow = ""
+movieName = ""
+placeNow = ""
+meetingTime = "9 PM"
+massage = "Tha plan has changed we are going to meet at \(meetingTime) in \(placeNow)"
+meetingTime = "6 PM"
+placeNow = ""
+massage = "Tha plan has changed we are going to meet at \(meetingTime) in \(placeNow)"
+placeNow = "Our friend's house "
+meetingTime = " 6 : 30 Pm"
+massage = "Tha plan has changed we are going to meet at \(meetingTime) in \(placeNow)"
+
+
+
+
+
+
