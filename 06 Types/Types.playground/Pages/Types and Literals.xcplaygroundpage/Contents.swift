@@ -35,3 +35,7 @@ floatPi
 //: Next, find out another way Swift decides on types.\
 //:\
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Type Inference from Assignment](@next)
+let partNumber1 = 8.29
+let wholeNumber1 = 5
+let totalNumber1 = 8.29 + 5
+print(totalNumber1)

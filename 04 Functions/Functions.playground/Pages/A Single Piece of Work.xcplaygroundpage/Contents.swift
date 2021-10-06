@@ -27,6 +27,11 @@ func rowTheBoat() {
 
 */
 
+func printsomething(){
+    print("hello")
+}
+printsomething()
+
 
 
 

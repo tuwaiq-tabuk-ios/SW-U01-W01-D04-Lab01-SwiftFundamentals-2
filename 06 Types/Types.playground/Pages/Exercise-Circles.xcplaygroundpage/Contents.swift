@@ -6,8 +6,8 @@
  Here is an approximate value of pi:
 */
 let pi = 3.14159265359
-//: - callout(Exercise): Write a program to calculate the circumference of a circle with a diameter of 2. Create a constant to hold the diameter. What type will the constant need to be? 
-
+//: - callout(Exercise): Write a program to calculate the circumference of a circle with a diameter of 2. Create a constant to hold the diameter. What type will the constant need to be?
+let circumferencecircle = 2 * (2/2) * pi
 
 
 

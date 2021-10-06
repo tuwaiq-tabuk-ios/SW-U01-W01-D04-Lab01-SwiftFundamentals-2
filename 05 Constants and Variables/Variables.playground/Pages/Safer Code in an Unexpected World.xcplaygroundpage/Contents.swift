@@ -6,38 +6,65 @@
  Consider this program for recording and calculating scores in a game:
 */
 // Scores for each target
-var scoreForGreen = 5
+/*var scoreForGreen = 5
 var scoreForRed = 10
-var scoreForGold = 20
+var scoreForGold = 20*/
 
 // Player scores
-var scoreForGary = 0
-var scoreForRob = 0
+/*var scoreForGary = 0
+var scoreForRob = 0*/
 
 // Game events here
-scoreForGary += scoreForRed
+/*scoreForGary += scoreForRed
 scoreForGary += scoreForGreen
-scoreForGary += scoreForGold
+scoreForGary += scoreForGold*/
 
-scoreForRob += scoreForRed
+/*scoreForRob += scoreForRed
 scoreForRed += scoreForGreen
-scoreForRob += scoreForGold
+scoreForRob += scoreForGold*/
 
-scoreForGary += scoreForRed
+/*scoreForGary += scoreForRed
 scoreForGary += scoreForGreen
-scoreForGary += scoreForGold
+scoreForGary += scoreForGold*/
 
-scoreForRob += scoreForRed
+/*scoreForRob += scoreForRed
 scoreForRob += scoreForGreen
-scoreForRob += scoreForGold
+scoreForRob += scoreForGold*/
 
-scoreForRob
-scoreForGary
+/*scoreForRob
+scoreForGary*/
 /*: 
  - callout(Exercise): The program above has a problem. Each player hit the same targets, but at the end of the game, Rob has fewer points than Gary. Can you find the problem?\
  _Hint: Try defining the target scores at the start of the program with `let` instead of `var`_
 */
+// Scores for each target
+let ScoreForGreen = 5
+let ScoreForRed = 10
+let ScoreForGold = 20
 
+// Player scores
+var ScoreForGary = 0
+var ScoreForRob = 0
+
+// Game events here
+ScoreForGary += ScoreForRed
+ScoreForGary += ScoreForGreen
+ScoreForGary += ScoreForGold
+
+ScoreForRob += ScoreForRed
+ScoreForRob += ScoreForGreen
+ScoreForRob += ScoreForGold
+
+ScoreForGary += ScoreForRed
+ScoreForGary += ScoreForGreen
+ScoreForGary += ScoreForGold
+
+ScoreForRob += ScoreForRed
+ScoreForRob += ScoreForGreen
+ScoreForRob += ScoreForGold
+
+ScoreForRob
+ScoreForGary
 
 
 

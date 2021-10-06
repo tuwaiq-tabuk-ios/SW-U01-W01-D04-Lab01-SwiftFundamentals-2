@@ -10,7 +10,7 @@
  
  The code is similar to how you’d write it in prose:
 */
-let videoLength = 3
+let videoLength = 2
 
 if videoLength < 5 {
     "If I blinked, I'd miss it!"
@@ -38,3 +38,7 @@ if videoLength >= 5 {
 
 [Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
 */
+let videoLength2 = 8
+ 
+if videoLength2 < 
+
