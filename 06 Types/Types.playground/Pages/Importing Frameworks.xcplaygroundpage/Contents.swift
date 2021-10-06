@@ -24,12 +24,17 @@ let today = Date()
 */
 
 
-
-
-
-
 /*:
  Think through what you’ve learned on the next page.
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Wrapup](@next)
 */
+let someDate = Date() + 10
+
+let someDate2 = Date() + 566
+
+let someDate3 = Date() + 0
+
+let someDate4 = Date() + 525600
+
+let someDate5 = Date() - 10

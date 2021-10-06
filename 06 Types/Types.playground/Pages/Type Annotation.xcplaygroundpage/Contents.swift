@@ -25,3 +25,6 @@ result * 0.5
  
 [Previous](@previous)  |  page 8 of 13  |  [Next: Where Do Types Come From? ](@next)
 */
+/*
+let annotatedDouble1: Double
+*/

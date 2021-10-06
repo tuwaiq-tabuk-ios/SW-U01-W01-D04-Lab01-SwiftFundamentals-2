@@ -36,7 +36,13 @@ score = score + 3
 
 
 
-
 //: Next, learn a shortcut for `score = score + 5`.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: A Shortcut](@next)
+var score1 = 5
+var score2 = score1 + score1
+print(score2)
+     
+    score2 += 5
+print(score2)
+

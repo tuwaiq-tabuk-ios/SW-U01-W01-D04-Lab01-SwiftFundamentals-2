@@ -46,3 +46,28 @@ verseThree()
  
  [Previous](@previous)  |  page 9 of 12  |  [Next: Wrapup](@next)
 */
+func rowTheBoat1() {
+    print("verb, verb, verb “your” nou")
+    print(" la la la la rhyme")
+}
+
+func verseOne1() {
+    rowTheBoat1()
+    merrilyDream()
+}
+
+func verseTwo1() {
+    rowTheBoat1()
+    crocodileScream()
+}
+
+func verseThree1() {
+    rowTheBoat1()
+    repetitiveTheme()
+}
+
+verseOne1()
+breatheBetweenVerses()
+verseTwo1()
+breatheBetweenVerses()
+verseThree1()
