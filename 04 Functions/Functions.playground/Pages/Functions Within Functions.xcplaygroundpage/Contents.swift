@@ -32,7 +32,7 @@ func laughingSubmarine() {
     print("Ha! Ha! Fooled you all")
     print("I’m a submarine")
 }
-
+laughingSubmarine()
 // Write the verse two function below
 
 

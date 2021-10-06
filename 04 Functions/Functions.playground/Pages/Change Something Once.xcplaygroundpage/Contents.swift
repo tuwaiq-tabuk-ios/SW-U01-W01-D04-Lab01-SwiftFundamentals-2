@@ -7,9 +7,24 @@
  
  The other functions are declared below:
 */
+
+/*: 
+ - callout(Exercise): It's been decided that the rhyme shouldn't be about boats any more.\
+ Update the print statements in `rowTheBoat()` so the song follows the same pattern but is about something else.\
+ The pattern is:\
+ _verb, verb, verb “your” noun_\
+ _la la la la rhyme_\
+ For example, you could use _“Ride, ride, ride your bike”, “With your cycling team”_\
+ \
+ You only have to update two lines of code, but the changes will be in effect everywhere that function is called.
+ 
+ Next, review what you’ve learned.
+ 
+ [Previous](@previous)  |  page 9 of 12  |  [Next: Wrapup](@next)
+*/
 func rowTheBoat() {
-    print("Row, row, row your boat")
-    print("Gently down the stream")
+    print("Ride ,ride ,ride, your bike")
+    print("with cycling team")
 }
 
 func verseOne() {
@@ -32,17 +47,3 @@ breatheBetweenVerses()
 verseTwo()
 breatheBetweenVerses()
 verseThree()
-/*: 
- - callout(Exercise): It's been decided that the rhyme shouldn't be about boats any more.\
- Update the print statements in `rowTheBoat()` so the song follows the same pattern but is about something else.\
- The pattern is:\
- _verb, verb, verb “your” noun_\
- _la la la la rhyme_\
- For example, you could use _“Ride, ride, ride your bike”, “With your cycling team”_\
- \
- You only have to update two lines of code, but the changes will be in effect everywhere that function is called.
- 
- Next, review what you’ve learned.
- 
- [Previous](@previous)  |  page 9 of 12  |  [Next: Wrapup](@next)
-*/

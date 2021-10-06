@@ -31,18 +31,22 @@ greeting += "Hello"
 greeting += " "
 greeting += "World"
 //: - experiment: Try building up the statement “Compound assignment is useful” using compound assignment and the following constants. The first part of the statement is done for you:
-let word1 = "Compound"
-let word2 = "assignment"
-let word3 = "is"
-let word4 = "useful"
-let space = " "
-
-var statement = ""
-statement += word1
-
-
-
 
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+let word1 = "Compound"
+let word2 = "assignment"
+let word3 = " is"
+let word4 = " useful"
+let space = " "
+
+var statement = ""
+statement += word1
+statement += " "
+statement += word2
+statement += word3
+statement += word4
+statement += space
+
+print("\(statement)")

@@ -29,11 +29,16 @@ hundred == nineTimesTen
 //: - Experiment: Try some comparisons of your own. Can you check if two string values are equal?
 
 
-
-
-
-
-
 //: Find out more ways to compare values on the next page.
 //:
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: More Comparisons](@next)
+let towHundred = 200
+let towTimesHundred = 2 * 100
+let threeTimesTen = 3 * 10
+
+towHundred == towTimesHundred
+towHundred == threeTimesTen
+
+
+
+

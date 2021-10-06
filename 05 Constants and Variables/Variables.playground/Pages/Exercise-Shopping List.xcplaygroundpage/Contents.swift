@@ -3,16 +3,18 @@
 
  The constants below represent some of the things you might want to add to a shopping list:
 */
-let eggs = "Eggs"
-let milk = "Milk"
-let cheese = "Cheese"
-let bread = "Bread"
-let rice = "Rice"
-let newLine = "\n"
+
 //: - callout(Exercise): Create a string variable with an initial value of `""`. Add each constant item above to the list, one at a time. Add a `newLine` in between each item. Remember you can join two strings using the `+` operator.
+var eggs = "Eggs"
+var milk = "Milk"
+var cheese = "Cheese"
+var bread = "Bread"
+var rice = "Rice"
+var newLine = "\n"
 
-
-
+var list = ""
+list =  eggs + newLine + milk + newLine + cheese + newLine + bread + newLine + rice
+print(list)
 
 
 

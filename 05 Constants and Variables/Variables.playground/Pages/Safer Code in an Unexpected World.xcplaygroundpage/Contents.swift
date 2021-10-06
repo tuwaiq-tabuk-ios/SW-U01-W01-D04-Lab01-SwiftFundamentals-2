@@ -5,10 +5,20 @@
  
  Consider this program for recording and calculating scores in a game:
 */
+
+/*: 
+ - callout(Exercise): The program above has a problem. Each player hit the same targets, but at the end of the game, Rob has fewer points than Gary. Can you find the problem?\
+ _Hint: Try defining the target scores at the start of the program with `let` instead of `var`_
+*/
+
+
+
+
+//: [Previous](@previous)  |  page 10 of 13  |  [Next: Wrapup](@next)
 // Scores for each target
-var scoreForGreen = 5
-var scoreForRed = 10
-var scoreForGold = 20
+let scoreForGreen = 5
+let scoreForRed = 10
+let scoreForGold = 20
 
 // Player scores
 var scoreForGary = 0
@@ -20,7 +30,7 @@ scoreForGary += scoreForGreen
 scoreForGary += scoreForGold
 
 scoreForRob += scoreForRed
-scoreForRed += scoreForGreen
+scoreForRob += scoreForGreen
 scoreForRob += scoreForGold
 
 scoreForGary += scoreForRed
@@ -33,12 +43,3 @@ scoreForRob += scoreForGold
 
 scoreForRob
 scoreForGary
-/*: 
- - callout(Exercise): The program above has a problem. Each player hit the same targets, but at the end of the game, Rob has fewer points than Gary. Can you find the problem?\
- _Hint: Try defining the target scores at the start of the program with `let` instead of `var`_
-*/
-
-
-
-
-//: [Previous](@previous)  |  page 10 of 13  |  [Next: Wrapup](@next)

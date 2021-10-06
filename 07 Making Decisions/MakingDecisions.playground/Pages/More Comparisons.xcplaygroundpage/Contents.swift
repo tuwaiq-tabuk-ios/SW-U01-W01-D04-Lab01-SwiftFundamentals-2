@@ -39,10 +39,10 @@
 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
+"2" >= "2"
 
-
-
-
+"A" <= "B"
+7.999 >= 2.55
 //: Learn how to add decision points to your code on the next page.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: Conditionals](@next)
