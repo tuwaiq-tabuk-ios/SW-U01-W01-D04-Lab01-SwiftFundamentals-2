@@ -32,3 +32,8 @@ rowTheBoat()
 //: Next, learn about making larger groups of tasks.
 //:
 //: [Previous](@previous)  |  page 5 of 12  |  [Next: Functions Within Functions](@next)
+func crocodileScream() {
+    print(rowTheBoat())
+
+}
+crocodileScream()

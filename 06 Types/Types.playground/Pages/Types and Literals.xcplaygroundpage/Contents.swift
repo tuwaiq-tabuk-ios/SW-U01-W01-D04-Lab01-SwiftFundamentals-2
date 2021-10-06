@@ -1,13 +1,3 @@
-/*:
- ## Types and Literals
- 
- When you write a value in code — like `42` or `"hello"` — it’s known as a _literal_. Swift makes assumptions about what types the literals are meant to be.
- 
- For example, any value inside double quotes will be treated as a `String` and a whole number will be treated as an `Int`. If you invite some friends to the beach and they meet you wearing swimsuits, you’d use that context clue to infer that they’ll jump into the water with you. When Swift uses context clues from code to infer what type something is, it’s called _type inference_.
- 
- There’s another common type that can be inferred. You already know that whole numbers are inferred to be `Int` types, but if you type a number with a decimal point, it will be inferred to be a `Double` type.
- 
-*/
 let partNumber = 3.2
 let wholeNumber = 2
 /*:
@@ -28,10 +18,14 @@ let wholeNumber = 2
  */
 
 let doublePi: Double = 3.141592653589793238462643383279
-let floatPi: Float = 3.141592653589793238462643383279
+let floatPi: Float = 3.1415977877798798798676876786876
 
 doublePi
 floatPi
 //: Next, find out another way Swift decides on types.\
 //:\
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Type Inference from Assignment](@next)
+//Double and float are the same string and integer you cant add them together!
+//let partNumber1 = 3.2
+//let wholeNumber1 = 2
+//partNumber1 + wholeNumber1
