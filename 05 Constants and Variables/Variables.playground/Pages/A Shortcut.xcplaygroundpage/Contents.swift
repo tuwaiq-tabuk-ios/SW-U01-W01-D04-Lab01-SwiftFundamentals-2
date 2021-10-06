@@ -30,15 +30,30 @@ var greeting = ""
 greeting += "Hello"
 greeting += " "
 greeting += "World"
+
+//Replace the line of code score = score + 2 above using += instead. Note that the result in the results bar is the same. Add a few more lines of code that add more points using the += operator.
+score = 10
+score = score + 2
+score += 7
+score += 15
 //: - experiment: Try building up the statement “Compound assignment is useful” using compound assignment and the following constants. The first part of the statement is done for you:
 let word1 = "Compound"
 let word2 = "assignment"
 let word3 = "is"
 let word4 = "useful"
 let space = " "
-
 var statement = ""
 statement += word1
+
+ statement += ""
+statement += word1
+statement += ""
+statement += word2
+statement += ""
+statement += word3
+statement += ""
+statement += word4
+
 
 
 

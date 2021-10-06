@@ -23,3 +23,6 @@ Next, find out what to do when type inference doesn’t work.
  
 [Previous](@previous)  |  page 7 of 13  |  [Next: Type Annotation](@next)
 */
+let num = 42
+let anothernum = num
+
