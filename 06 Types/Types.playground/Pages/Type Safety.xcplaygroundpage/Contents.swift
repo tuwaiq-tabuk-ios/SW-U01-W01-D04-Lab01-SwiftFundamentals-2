@@ -7,8 +7,8 @@
 
 - experiment: Uncomment each line of code below and examine the error it produces. You’ll need to uncomment one line at a time, because the playground will stop at the first error it sees.
 */
-//"banana" + 1
-//2 + "2"
+"banana" + 1
+2 + "2"
 /*:
  You'll see errors like this:
  
@@ -22,6 +22,8 @@
  
  - callout(Exercise): Write some more incorrect addition statements. Before you write each line, try to guess what errors will be produced. Remember to comment out the lines of code from the earlier experiment first.
  */
+"aisha" + 0.30
+100 /"100"
 
 
 

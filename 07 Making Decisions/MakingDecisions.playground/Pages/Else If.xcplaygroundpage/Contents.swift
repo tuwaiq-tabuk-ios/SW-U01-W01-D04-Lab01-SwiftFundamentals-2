@@ -21,13 +21,23 @@ if videoLength < 5 {
  You can add more than one `else if` statement, but the first one that is `true` will be the one that “wins”:
 */
 let anotherVideoLength = 75000
-if anotherVideoLength < 5 {
+if anotherVideoLength == 5 {
     "If I blinked, I'd miss it."
-} else if anotherVideoLength > 50000 {
+}
+else if anotherVideoLength > 50000 {
     "This is too long for anyone."
-} else if anotherVideoLength > 500 {
+}
+else if anotherVideoLength < 500 {
     "Don't worry, I know a good editor."
-} else {
+}
+else if anotherVideoLength != 343 {
+    "It is no the same"
+}
+else if anotherVideoLength == 75000 {
+    " It is the same "
+    
+}
+else {
     "That was lovely."
 }
 //: Notice that the final `else if` statement, even though it is `true`, does not get executed. Once a conditional is `true`, the later ones are not checked. The order of your code is very important!
