@@ -27,18 +27,11 @@ has the same effect as:
  For example, this also works with strings:
 */
 var greeting = ""
-greeting += "Hello"
-greeting += " "
-greeting += "World"
+greeting += " Hello"
+greeting += " World"
 //: - experiment: Try building up the statement “Compound assignment is useful” using compound assignment and the following constants. The first part of the statement is done for you:
-let word1 = "Compound"
-let word2 = "assignment"
-let word3 = "is"
-let word4 = "useful"
-let space = " "
 
-var statement = ""
-statement += word1
+
 
 
 
@@ -46,3 +39,12 @@ statement += word1
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+
+print("\n\n- - Exercise - -")
+var statement = ""
+statement += "Compound "
+statement += "assignment "
+statement += "is "
+statement += "useful"
+
+print("\(statement)")
