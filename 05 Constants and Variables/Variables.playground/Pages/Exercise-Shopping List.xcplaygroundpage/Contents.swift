@@ -10,6 +10,14 @@ let bread = "Bread"
 let rice = "Rice"
 let newLine = "\n"
 //: - callout(Exercise): Create a string variable with an initial value of `""`. Add each constant item above to the list, one at a time. Add a `newLine` in between each item. Remember you can join two strings using the `+` operator.
+var Grocery = ""
+Grocery += "Eggs"
+Grocery += "\n"
+Grocery += "Milk"
+Grocery += "\n"
+Grocery += "Cheese"
+Grocery += "\n"
+Grocery += "Bread + Rice"
 
 
 
