@@ -29,6 +29,10 @@ hundred == nineTimesTen
 //: - Experiment: Try some comparisons of your own. Can you check if two string values are equal?
 
 
+"azooz"=="azooz"
+//The two string values are equal
+"hssunn"=="hssaun"
+//String value is not equal
 
 
 

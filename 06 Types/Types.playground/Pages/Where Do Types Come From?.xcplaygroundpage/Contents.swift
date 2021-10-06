@@ -1,5 +1,6 @@
+
 /*:
- ## Where Do Types Come From? 
+ ## Where Do Types Come From?
  
  Swift has built-in types that represent the basic building blocks of all programs. You have spent a lot of time with `String` and `Int`, there are also many more.
  
@@ -18,9 +19,13 @@
  
  The difference is intentional. Because names of types begin with a capital letter, it’s easy to tell them apart from the names of functions, variables and constants. Both use camel case, but types use _upper camel case_ as opposed to _lower camel case_.
  
- - Experiment: Think of some types of your own and how they'd look in upper camel case, like `TrainingShoe` or `RacingBike`. 
+ - Experiment: Think of some types of your own and how they'd look in upper camel case, like `TrainingShoe` or `RacingBike`.
 
  There are more types available. Find out where they come from on the next page.
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Beyond the Standard Library](@next)
 */
+let TrainingShoe = ""
+
+let RacingBike = ""
+

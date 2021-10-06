@@ -30,4 +30,9 @@ In programming, there is an important difference between names that always refer
   - Who was the first President of the United States
 
  */
-//: [Previous](@previous)  |  page 2 of 13  |  [Next: Declaring Variables](@next)
+let meBorn = "tabuk"
+var IliveinT = "Tabuk"
+var meold = 25
+let favoritemovi = "anmu"
+var inchesareinafoot = 44
+let  thefirstPresidentofTheUnitedStatesN = "GOORG"+"WSHTON"
