@@ -3,7 +3,7 @@
  
  The code to display a video message contains two very similar statements. This approach can be slow, confusing, and, an easy way to make mistakes — as you saw in the experiment on the previous page.
 */
-let videoLength = 5
+let videoLength = 10
 
 if videoLength >= 5 {
     "That's lovely."
@@ -36,3 +36,8 @@ if videoLength < 5 {
  
 [Previous](@previous)  |  page 6 of 13  |  [Next: Else If](@next)
 */
+if videoLength < 17 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}

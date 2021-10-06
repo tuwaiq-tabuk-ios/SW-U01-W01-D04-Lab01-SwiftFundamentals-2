@@ -1,18 +1,11 @@
-/*:
- ## Safer Code in a Varying World
- Why bother with constants if you can just use variables? Aren't variables just better, because you can change them whenever you like?
-
-No.
-
-Sometimes you'll write code that's expecting the world to be a certain way. Imagine you ask a friend what they'd like to drink, and then you start working really hard to deliver it.*/
-var friendBeverageChoice = "coffee"
+/*var friendBeverageChoice = "coffee"
 
 driveAcrossTown()
-buyACoffeeMaker()
+buyACoffeeMaker()*/
 /*:
  Depending how long you're gone for, you have no way of knowing whether your friend will change their mind before you get back.
  */
-friendBeverageChoice = "tea"
+/*friendBeverageChoice = "tea"
 
 findCoffeeGrinder()
 
@@ -27,7 +20,7 @@ setUpCoffeeGrinder()
 friendBeverageChoice = "nothing 😴"
 
 grindBeans()
-makeFriendDrinkCoffee()
+makeFriendDrinkCoffee()*/
 /*:
  You might knock on your friend's door now at 3 a.m. and expect them to gratefully wake up to drink your coffee, but actually your friend will be mad and you’ll be disappointed. Your friend’s desire for coffee is variable, so you can't behave in a way that expects it to be constant.
 
@@ -41,4 +34,6 @@ The second option doesn't leave you with a very useful program, does it?
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Safer Code in an Unexpected World](@next)
 */
+let friendBeverageChoice = "coffee"
+
 

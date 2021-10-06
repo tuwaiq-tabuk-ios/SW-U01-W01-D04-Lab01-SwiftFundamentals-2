@@ -20,13 +20,17 @@ if videoLength < 5 {
  
  You can add more than one `else if` statement, but the first one that is `true` will be the one that “wins”:
 */
+//line1
 let anotherVideoLength = 75000
-if anotherVideoLength < 5 {
+if anotherVideoLength < 90000 {
     "If I blinked, I'd miss it."
-} else if anotherVideoLength > 50000 {
+//line2
+} else if anotherVideoLength > 5000 {
     "This is too long for anyone."
+//line3
 } else if anotherVideoLength > 500 {
     "Don't worry, I know a good editor."
+//4
 } else {
     "That was lovely."
 }
@@ -35,3 +39,4 @@ if anotherVideoLength < 5 {
 //: On the next page, learn how to use functions to make complicated decisions look simple. 
 //:
 //: [Previous](@previous)  |  page 7 of 13  |  [Next: Functions and Decisions](@next)
+/* 👆🏼 */

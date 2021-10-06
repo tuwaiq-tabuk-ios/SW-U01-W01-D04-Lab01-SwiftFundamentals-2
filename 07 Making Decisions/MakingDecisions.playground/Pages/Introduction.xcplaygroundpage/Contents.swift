@@ -27,3 +27,9 @@ let videoMessage = "Your video is \(videoLength) seconds long. \(videoLengthTooS
  
 page 1 of 13  |  [Next: True and False](@next)
 */
+//  try changing the video length
+let VideoLength = 2857013857
+let VideoLengthTooShortReaction = "If I blinked, I'd miss it!"
+let VideoReasonableLengthReaction = "That was lovely."
+let VideoMessage = "Your video is \(videoLength) seconds long. \(videoLengthTooShortReaction)"
+

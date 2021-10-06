@@ -30,6 +30,7 @@ var greeting = ""
 greeting += "Hello"
 greeting += " "
 greeting += "World"
+
 //: - experiment: Try building up the statement “Compound assignment is useful” using compound assignment and the following constants. The first part of the statement is done for you:
 let word1 = "Compound"
 let word2 = "assignment"
@@ -46,3 +47,13 @@ statement += word1
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+statement += space
+statement += word2
+
+statement += space
+statement += word3
+
+statement += space
+statement += word4
+
+print(statement)

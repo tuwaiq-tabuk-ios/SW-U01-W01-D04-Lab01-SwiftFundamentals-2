@@ -20,4 +20,6 @@ var favoriteThing = "Whiskers on kittens"
  
 [Previous](@previous)  |  page 4 of 13  |  [Next: Type Safety](@next)
 */
-
+/*
+int favoriteThing = "Whiskers on kittens"
+*/

@@ -36,3 +36,11 @@ func rowTheBoat() {
 //: Next, learn about how to think about tasks and divide them up in a way that makes sense.
 //:
 //: [Previous](@previous)  |  page 4 of 12  |  [Next: Breaking It Down](@next)
+func printTotheConsol() {
+    print("Hello")
+    print("Abrar")
+    
+
+}
+printTotheConsol()
+

@@ -24,14 +24,17 @@ let hundred = 100
 let tenTimesTen = 10 * 10
 let nineTimesTen = 9 * 10
 
-hundred == tenTimesTen
-hundred == nineTimesTen
+hundred == tenTimesTen  //T
+hundred == nineTimesTen //F
 //: - Experiment: Try some comparisons of your own. Can you check if two string values are equal?
 
+let NumberOfDaysWeek = 7
+let luckyNumber = 7
+if  NumberOfDaysWeek == luckyNumber {
+print ("hello")
+    
 
-
-
-
+}
 
 
 //: Find out more ways to compare values on the next page.
