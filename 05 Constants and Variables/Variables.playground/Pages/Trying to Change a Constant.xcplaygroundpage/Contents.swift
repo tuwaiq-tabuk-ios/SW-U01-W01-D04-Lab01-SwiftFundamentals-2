@@ -5,7 +5,7 @@
  
  As you can see below, this is considered an error. The error is “Cannot assign to value: 'name' is a 'let' constant”. Now that you know more about what `let` and _constant_ mean, this error makes sense.
 */
-let name = "Johnny"
+var name = "Johnny"
 name = "John"
 /*:
  The error in the gutter looks a little different than normal.
@@ -31,3 +31,5 @@ Next, see if you should always accept a Fix-it?
  */
 
 //: [Previous](@previous)  |  page 7 of 13  |  [Next: You Make the Choice](@next)
+let birthday = 1994
+birthday = 1998

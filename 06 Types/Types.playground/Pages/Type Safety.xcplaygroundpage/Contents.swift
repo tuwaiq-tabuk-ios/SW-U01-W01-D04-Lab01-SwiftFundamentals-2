@@ -33,3 +33,5 @@
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+// var string1 = "banana" + 1
+// vat sum = 2 + "2"

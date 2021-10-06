@@ -34,6 +34,13 @@ hundred == nineTimesTen
 
 
 
+
 //: Find out more ways to compare values on the next page.
 //:
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: More Comparisons](@next)
+let namberOfGrils = 31
+let namberOfBoys = 3 * 2
+let totalNumber = 31
+namberOfGrils == namberOfBoys
+namberOfGrils == totalNumber
+
