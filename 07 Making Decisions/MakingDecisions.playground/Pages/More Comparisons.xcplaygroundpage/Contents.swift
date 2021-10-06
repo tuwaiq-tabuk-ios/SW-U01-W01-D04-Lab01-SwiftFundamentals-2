@@ -39,6 +39,12 @@
 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
+5>=9
+7<0
+0>9
+0<1
+0<=6
+7<=7
 
 
 

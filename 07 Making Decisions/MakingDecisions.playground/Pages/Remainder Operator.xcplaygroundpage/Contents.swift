@@ -12,8 +12,8 @@
 //: 5 divided by 2 is 2, with a remainder of one, so this line equals one:
 5 % 2
 //: To find out if the candy can be split evenly among your band members, you have to check if the remainder is zero:
-let bandMemberCount = 6
-let candyCount = 79
+let bandMemberCount = 1
+let candyCount = 2
 if candyCount % bandMemberCount == 0 {
     "Rock on."
 } else {

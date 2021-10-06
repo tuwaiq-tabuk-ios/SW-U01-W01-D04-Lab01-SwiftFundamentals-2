@@ -17,3 +17,5 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+var weekdays:[String] = ["sun","mon","tues"]
+print(weekdays)

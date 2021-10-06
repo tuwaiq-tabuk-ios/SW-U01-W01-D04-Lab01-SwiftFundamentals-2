@@ -20,4 +20,5 @@ var favoriteThing = "Whiskers on kittens"
  
 [Previous](@previous)  |  page 4 of 13  |  [Next: Type Safety](@next)
 */
-
+//favoriteThing = 90
+//can i change tha value but i can't change the data type

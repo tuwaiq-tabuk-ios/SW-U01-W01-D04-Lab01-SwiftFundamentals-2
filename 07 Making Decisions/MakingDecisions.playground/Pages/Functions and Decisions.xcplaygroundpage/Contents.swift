@@ -6,7 +6,7 @@
  For example, imagine your five-person band is playing a gig, and you've got 600 pounds of equipment. You and your bandmates each can carry 50 pounds of gear per trip, but if anyone has to make more than two trips, they’ll quit on the spot. So you do some arithmetic:
 */
 let bandMemberCount = 5
-let gearWeight = 600
+let gearWeight = 6500
 let weightPerPerson = 50
 let maximumTripCount = 2
 
