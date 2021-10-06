@@ -40,3 +40,12 @@ score = score + 3
 //: Next, learn a shortcut for `score = score + 5`.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: A Shortcut](@next)
+var score1 = 5
+score1 = score1 + 5
+score1
+score1 + 3
+score1
+score1 = score1 + 10
+score1
+score1 + 5
+

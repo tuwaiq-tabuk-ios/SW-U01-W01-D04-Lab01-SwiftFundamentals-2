@@ -13,7 +13,7 @@ var currentLocation = "New Jersey"
  Once you have declared a variable, you can assign a new value to it:
 */
 // Assigning a new value to a variable
-currentLocation = "California"
+ currentLocation = "California"
 
 /*:
  - experiment: Below, add a line of code that assigns a new value to `currentLocation`:
@@ -35,3 +35,10 @@ Next, learn how to work with variables.
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: Working with Variables](@next)
 // Experiment 1
 // Assign a new value
+var CurrentLocation1 = " Tabuk "
+var currentLocation1 = " Riyadh"
+
+
+
+
+
