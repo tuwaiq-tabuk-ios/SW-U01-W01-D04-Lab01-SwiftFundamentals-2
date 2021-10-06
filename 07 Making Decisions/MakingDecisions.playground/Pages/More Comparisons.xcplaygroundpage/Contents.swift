@@ -39,6 +39,11 @@
 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
+"Bushra" > "Hajer"
+2 >= -4
+5 != 5
+1.4 < 4 
+
 
 
 

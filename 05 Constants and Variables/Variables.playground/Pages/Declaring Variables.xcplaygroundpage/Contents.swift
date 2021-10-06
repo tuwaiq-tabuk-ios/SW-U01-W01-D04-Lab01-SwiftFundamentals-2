@@ -19,19 +19,8 @@ currentLocation = "California"
  - experiment: Below, add a line of code that assigns a new value to `currentLocation`:
  */
 // Assign a new value
-
-/*:
- In most ways, constants and variables are the same:
-- Both use the same rules for names
-- Both associate a name with an assigned value
-- Both have a specific type
- 
- The difference is:
- - The value of a constant *cannot* be changed after it is first assigned
- - The value of a variable *can* be changed after it is first assigned
-
-Next, learn how to work with variables.
- */
+var currentLocation1 = "Riyadh"
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: Working with Variables](@next)
 // Experiment 1
 // Assign a new value
+currentLocation1 = "Tabuk"
