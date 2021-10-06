@@ -3,7 +3,7 @@
  
  The code to display a video message contains two very similar statements. This approach can be slow, confusing, and, an easy way to make mistakes — as you saw in the experiment on the previous page.
 */
-let videoLength = 5
+let videoLength = 3
 
 if videoLength >= 5 {
     "That's lovely."

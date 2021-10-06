@@ -37,3 +37,4 @@ hundred == nineTimesTen
 //: Find out more ways to compare values on the next page.
 //:
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: More Comparisons](@next)
+8 + 1==9

@@ -20,7 +20,7 @@ if videoLength < 5 {
  
  You can add more than one `else if` statement, but the first one that is `true` will be the one that “wins”:
 */
-let anotherVideoLength = 75000
+let anotherVideoLength = 70
 if anotherVideoLength < 5 {
     "If I blinked, I'd miss it."
 } else if anotherVideoLength > 50000 {

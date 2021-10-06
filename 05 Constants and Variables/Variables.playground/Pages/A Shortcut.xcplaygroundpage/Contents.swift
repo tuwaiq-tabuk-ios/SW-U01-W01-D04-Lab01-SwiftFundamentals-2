@@ -38,10 +38,10 @@ let word4 = "useful"
 let space = " "
 
 var statement = ""
-statement += word1
-
-
-
+statement += word1 + space
+statement += word2 + space
+statement += word3 + space
+statement += word4
 
 
 

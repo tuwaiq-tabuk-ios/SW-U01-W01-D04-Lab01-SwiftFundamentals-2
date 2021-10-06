@@ -5,7 +5,7 @@
 No.
 
 Sometimes you'll write code that's expecting the world to be a certain way. Imagine you ask a friend what they'd like to drink, and then you start working really hard to deliver it.*/
-var friendBeverageChoice = "coffee"
+var  friendBeverageChoice = "coffee"
 
 driveAcrossTown()
 buyACoffeeMaker()
@@ -41,4 +41,3 @@ The second option doesn't leave you with a very useful program, does it?
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Safer Code in an Unexpected World](@next)
 */
-
