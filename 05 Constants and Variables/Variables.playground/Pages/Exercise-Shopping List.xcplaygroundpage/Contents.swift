@@ -15,5 +15,15 @@ let newLine = "\n"
 
 
 
-
 //: [Previous](@previous)  |  page 12 of 13  |  [Next: Exercise: 501](@next)
+var menu = ""
+menu += eggs
+menu += newLine
+menu += milk
+menu += newLine
+menu += cheese
+menu += newLine
+menu += bread
+menu += newLine
+menu += rice
+

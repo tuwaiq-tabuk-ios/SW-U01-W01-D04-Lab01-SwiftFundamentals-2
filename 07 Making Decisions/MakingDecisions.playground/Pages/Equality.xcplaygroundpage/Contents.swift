@@ -28,9 +28,9 @@ hundred == tenTimesTen
 hundred == nineTimesTen
 //: - Experiment: Try some comparisons of your own. Can you check if two string values are equal?
 
-
-
-
+"Ali"=="ali"
+"ali"=="ali"
+// Can you check if two string values are equal?   yes
 
 
 

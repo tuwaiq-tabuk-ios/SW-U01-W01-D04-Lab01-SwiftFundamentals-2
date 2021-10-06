@@ -46,3 +46,18 @@ statement += word1
 
 
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+score += 2
+score += 3
+score += 4
+score += 5
+var statement3 = ""
+statement3 += word1
+
+statement3 += space
+statement3 += word2
+
+statement3 += space
+statement3 += word3
+statement3 += space
+statement3 += word4
+

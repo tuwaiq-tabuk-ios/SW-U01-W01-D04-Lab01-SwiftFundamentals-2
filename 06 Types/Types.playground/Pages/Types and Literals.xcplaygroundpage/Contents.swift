@@ -18,7 +18,7 @@ let wholeNumber = 2
 //: - experiment: Try to perform a calculation with `partNumber` and `wholeNumber`, for example add them together. Look at the errors. Change the values to be both whole numbers, or both decimal numbers, and see what difference it makes.\
 //:\
 //: You can‘t mix and match `Double` and `Int` types in Swift because of type safety.
-
+//partNumber + wholeNumber     Integer number and wrong decimal number in addition
 /*:
  > The `Double` type is so called because it refers to a “Double-precision floating point” number. A `Float` type also refers to a number with a decimal point, but the default `Double` is twice as precise.\
  > \
