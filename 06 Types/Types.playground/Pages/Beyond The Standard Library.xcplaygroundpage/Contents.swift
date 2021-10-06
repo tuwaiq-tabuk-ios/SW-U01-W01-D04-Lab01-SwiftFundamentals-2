@@ -17,3 +17,6 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+//DrivingCar: car speed (int), car name (string)
+
+//GetReady: things to do (string), time (int)

@@ -41,4 +41,26 @@ The second option doesn't leave you with a very useful program, does it?
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Safer Code in an Unexpected World](@next)
 */
+// I convert var into let and I delete all the lines with assignment that change it. By making them as comments.
 
+let friendBeverageChoice1 = "coffee"
+
+driveAcrossTown()
+buyACoffeeMaker()
+
+//friendBeverageChoice1 = "tea"
+
+findCoffeeGrinder()
+
+//friendBeverageChoice1 = "water"
+//friendBeverageChoice1 = "sparkling water"
+//friendBeverageChoice1 = "plain water"
+
+findCoffeeBeans()
+driveHome()
+setUpCoffeeGrinder()
+
+//friendBeverageChoice1 = "nothing 😴"
+
+grindBeans()
+makeFriendDrinkCoffee()

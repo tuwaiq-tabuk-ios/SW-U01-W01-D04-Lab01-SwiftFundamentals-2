@@ -46,3 +46,29 @@ verseThree()
  
  [Previous](@previous)  |  page 9 of 12  |  [Next: Wrapup](@next)
 */
+func rowTheBoat1() {
+    print("Ride, ride, ride your bike")
+    print("With your cycling team")
+}
+
+func verseOne1() {
+    rowTheBoat1()
+    merrilyDream()
+}
+
+func verseTwo2() {
+    rowTheBoat1()
+    crocodileScream()
+}
+
+func verseThree3() {
+    rowTheBoat1()
+    repetitiveTheme()
+}
+
+verseOne1()
+breatheBetweenVerses()
+verseTwo2()
+breatheBetweenVerses()
+verseThree3()
+

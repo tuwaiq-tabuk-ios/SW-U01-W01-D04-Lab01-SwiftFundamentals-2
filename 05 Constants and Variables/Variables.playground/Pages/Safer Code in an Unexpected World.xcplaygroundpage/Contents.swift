@@ -42,3 +42,32 @@ scoreForGary
 
 
 //: [Previous](@previous)  |  page 10 of 13  |  [Next: Wrapup](@next)
+// Scores for each target
+let scoreForGreen1 = 5
+var scoreForRed1 = 10
+let scoreForGold1 = 20
+
+// Player scores
+var scoreForGary1 = 0
+var scoreForRob1 = 5
+
+// Game events here
+scoreForGary1 += scoreForRed1
+scoreForGary1 += scoreForGreen1
+scoreForGary1 += scoreForGold1
+
+scoreForRob1 += scoreForRed1
+scoreForRed1 += scoreForGreen1
+scoreForRob1 += scoreForGold1
+
+scoreForGary1 += scoreForRed1
+scoreForGary1 += scoreForGreen1
+scoreForGary1 += scoreForGold1
+
+scoreForRob1 += scoreForRed1
+scoreForRob1 += scoreForGreen1
+scoreForRob1 += scoreForGold1
+
+scoreForRob1
+scoreForGary1
+
