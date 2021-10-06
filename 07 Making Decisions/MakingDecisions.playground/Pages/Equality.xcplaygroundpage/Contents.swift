@@ -27,7 +27,11 @@ let nineTimesTen = 9 * 10
 hundred == tenTimesTen
 hundred == nineTimesTen
 //: - Experiment: Try some comparisons of your own. Can you check if two string values are equal?
-
+let mumage = 50
+let myage = 24
+myage == mumage
+let myfrindage = 24
+ myage == myfrindage
 
 
 

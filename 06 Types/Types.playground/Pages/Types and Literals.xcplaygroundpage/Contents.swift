@@ -35,3 +35,11 @@ floatPi
 //: Next, find out another way Swift decides on types.\
 //:\
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Type Inference from Assignment](@next)
+//partNumber + wholeNumber
+let partNumber1 = 5
+let wholeNumber1 = 6
+let n = partNumber1 + wholeNumber1
+
+let partNumber2 = 3.77
+let wholeNumber2 = 4.2
+let m = partNumber2 + wholeNumber2
