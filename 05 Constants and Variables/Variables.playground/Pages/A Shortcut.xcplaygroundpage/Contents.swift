@@ -45,4 +45,15 @@ statement += word1
 
 
 
-//: [Previous](@previous)  |  page 5 of 13  |  [Next: Confusing Changes](@next)
+
+statement += " "
+statement += word2
+
+statement += " "
+statement += word3
+
+statement += " "
+statement += word4
+
+print(statement)
+

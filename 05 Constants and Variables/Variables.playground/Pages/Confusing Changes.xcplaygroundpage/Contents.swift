@@ -26,3 +26,6 @@ Would mistakes be less likely if the plan didn't change?
  Speaking of errors, move on to learn about a common error when working with constants and variables.
  */
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Trying to Change a Constant](@next)
+/*With all of these changes, how likely is it that everyone is going to end up at the right place at the right time? 3
+ Would mistakes be less likely if the plan didn't change? yes
+*/

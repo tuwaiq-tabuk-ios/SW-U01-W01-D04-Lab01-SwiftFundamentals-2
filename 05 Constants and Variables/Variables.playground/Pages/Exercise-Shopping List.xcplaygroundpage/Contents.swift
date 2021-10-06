@@ -3,6 +3,7 @@
 
  The constants below represent some of the things you might want to add to a shopping list:
 */
+
 let eggs = "Eggs"
 let milk = "Milk"
 let cheese = "Cheese"
@@ -17,3 +18,6 @@ let newLine = "\n"
 
 
 //: [Previous](@previous)  |  page 12 of 13  |  [Next: Exercise: 501](@next)
+var list = ""
+list = eggs + newLine + milk + newLine + cheese + newLine + bread + newLine + rice
+print(list)

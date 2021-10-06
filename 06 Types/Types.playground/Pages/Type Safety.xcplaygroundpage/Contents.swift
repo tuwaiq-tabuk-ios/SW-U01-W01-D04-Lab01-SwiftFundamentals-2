@@ -33,3 +33,9 @@
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+// "birth" + 23
+// 65 + 'S'
+
+//var example = "birth" + 23
+//var example2 = 65 + 'S'
+

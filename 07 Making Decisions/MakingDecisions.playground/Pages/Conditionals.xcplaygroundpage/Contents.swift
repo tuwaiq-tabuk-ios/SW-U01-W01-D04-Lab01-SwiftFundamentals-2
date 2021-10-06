@@ -38,3 +38,32 @@ if videoLength >= 5 {
 
 [Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
 */
+
+/*:
+ 
+ This is called an _if statement_. It works like this:
+ 
+ - `if`…
+ - some code that could be `true` or `false` is `true`…
+ - run the code inside the braces: `{ ... }`
+ - otherwise, skip it
+ 
+ In the code above, you can see in the results sidebar that the first if statement is run. The code inside the second if statement isn’t executed because the conditions for it aren’t true.
+ 
+ - experiment: Change the value of `videoLength` and see how the new value affects the code that is run.
+
+ - experiment: What happens if you change the comparison in the first example, so it complains about videos shorter than 10 seconds? What happens if you then set the `videoLength` to 8?
+
+ Your second experiment may have had strange results. Head to the next page to straighten them out.
+
+[Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
+*/
+let videoLength2 = 4
+
+if videoLength2 < 6 {
+    "If I blinked, I'd miss it!"
+}
+
+if videoLength2 > 6 {
+    "That's lovely."
+}
