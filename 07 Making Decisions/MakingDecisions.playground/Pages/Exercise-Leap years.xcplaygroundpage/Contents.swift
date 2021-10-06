@@ -14,14 +14,19 @@
  
  The `number(_:, isDivisibleBy:)` function has been built into this playground to make this exercise easier. Below is an incomplete function for deciding if a given year is a leap year:
 */
+
 func isLeapYear(_ year: Int) -> Bool {
     if number(year, isDivisibleBy: 4) {
-        // Fill in this code...
-        return true
-    } else {
-        return false
+        if number(year, isDivisibleBy: 100){
+             if number(year, isDivisibleBy: 400){
+                 return true
+             }
+            else { return false }
+        } else {return true}
     }
+    else {return false}
 }
+        // Fill in this code...
 // Should be true
 isLeapYear(2000)
 // Should be false
@@ -42,3 +47,4 @@ isLeapYear(2017)
  _THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE._
  */
 //: [Previous](@previous)  |  page 13 of 13
+

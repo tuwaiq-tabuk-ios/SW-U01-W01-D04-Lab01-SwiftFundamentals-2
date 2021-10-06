@@ -33,12 +33,39 @@ scoreForRob += scoreForGold
 
 scoreForRob
 scoreForGary
+
+
 /*: 
  - callout(Exercise): The program above has a problem. Each player hit the same targets, but at the end of the game, Rob has fewer points than Gary. Can you find the problem?\
  _Hint: Try defining the target scores at the start of the program with `let` instead of `var`_
 */
+var scoreForGreen1 = 5
+var scoreForRed1 = 10
+var scoreForGold1 = 20
 
+// Player scores
+var scoreForGary1 = 0
+var scoreForRob1 = 0
 
+// Game events here
+scoreForGary1 += scoreForRed1
+scoreForGary1 += scoreForGreen1
+scoreForGary1 += scoreForGold1
+
+scoreForRob1 += scoreForRed1
+scoreForRob1 += scoreForGreen1
+scoreForRob1 += scoreForGold1
+
+scoreForGary1 += scoreForRed1
+scoreForGary1 += scoreForGreen1
+scoreForGary1 += scoreForGold1
+
+scoreForRob1 += scoreForRed1
+scoreForRob1 += scoreForGreen1
+scoreForRob1 += scoreForGold1
+
+scoreForRob1
+scoreForGary1
 
 
 //: [Previous](@previous)  |  page 10 of 13  |  [Next: Wrapup](@next)

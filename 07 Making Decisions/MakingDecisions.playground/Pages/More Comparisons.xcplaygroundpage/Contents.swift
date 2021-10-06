@@ -39,9 +39,11 @@
 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
-
-
-
+ 3 <= -4
+1.212 <= 2
+3 != 2
+"H" > "bj"
+"hajer" < "nora"
 
 //: Learn how to add decision points to your code on the next page.
 //:
