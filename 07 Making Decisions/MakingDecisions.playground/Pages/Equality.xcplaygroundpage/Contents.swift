@@ -37,3 +37,9 @@ hundred == nineTimesTen
 //: Find out more ways to compare values on the next page.
 //:
 //: [Previous](@previous)  |  page 3 of 13  |  [Next: More Comparisons](@next)
+let seventy = 70
+let seven_ten = 7 * 10
+let seven_one = 7 * 1
+
+seventy == seven_one
+seventy == seven_ten
