@@ -26,8 +26,11 @@ func rowTheBoat() {
  What happens if you call your function more than once?
 
 */
-
-
+func MyFavoriteSong ()
+{
+    print("Some one like you")
+}
+MyFavoriteSong()
 
 
 

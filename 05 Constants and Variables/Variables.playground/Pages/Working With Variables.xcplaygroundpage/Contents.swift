@@ -33,6 +33,8 @@ score = score + 3
  ```
 */
 
+score = 10
+score = score + score
 
 
 

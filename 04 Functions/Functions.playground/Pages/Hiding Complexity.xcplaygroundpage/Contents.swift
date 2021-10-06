@@ -17,3 +17,10 @@ verseThree()
  
  [Previous](@previous)  |  page 8 of 12  |  [Next: Change Something Once](@next)
 */
+breatheBetweenVerses()
+verseThree()
+breatheBetweenVerses()
+verseTwo()
+breatheBetweenVerses()
+verseOne()
+
