@@ -6,15 +6,15 @@
  Consider this program for recording and calculating scores in a game:
 */
 // Scores for each target
-var scoreForGreen = 5
+/* var scoreForGreen = 5
 var scoreForRed = 10
-var scoreForGold = 20
+var scoreForGold = 20 */
 
-// Player scores
+/*Player scores
 var scoreForGary = 0
-var scoreForRob = 0
+var scoreForRob = 0 */
 
-// Game events here
+/* Game events here
 scoreForGary += scoreForRed
 scoreForGary += scoreForGreen
 scoreForGary += scoreForGold
@@ -29,7 +29,7 @@ scoreForGary += scoreForGold
 
 scoreForRob += scoreForRed
 scoreForRob += scoreForGreen
-scoreForRob += scoreForGold
+scoreForRob += scoreForGold */
 
 scoreForRob
 scoreForGary
@@ -42,3 +42,30 @@ scoreForGary
 
 
 //: [Previous](@previous)  |  page 10 of 13  |  [Next: Wrapup](@next)
+let  scoreForGreen = 5
+let  scoreForRed = 10
+let  scoreForGold = 20
+
+// Player scores
+var scoreForGary = 0
+var scoreForRob = 0
+
+// Game events here
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForGary += scoreForRed
+scoreForGary += scoreForGreen
+scoreForGary += scoreForGold
+
+scoreForRob += scoreForRed
+scoreForRob += scoreForGreen
+scoreForRob += scoreForGold
+
+scoreForRob
+scoreForGary
