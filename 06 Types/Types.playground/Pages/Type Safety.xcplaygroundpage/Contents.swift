@@ -33,3 +33,11 @@
 //: Next, learn how Swift decides what type you mean when creating a value.
 //:
 //: [Previous](@previous)  |  page 5 of 13  |  [Next: Types and Literals](@next)
+//experiment1
+//"banana" + 1
+//2 + "2"
+//Here we trying to add string to integer and thats cant be right because strings and numbers are different types
+//Exercise
+//1 + "0"
+//You have to remove the punctuation signs
+

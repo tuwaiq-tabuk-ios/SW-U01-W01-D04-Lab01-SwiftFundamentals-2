@@ -30,3 +30,20 @@ verseOne()
  
  [Previous](@previous)  |  page 7 of 12  |  [Next: Hiding Complexity](@next)
 */
+func rowTheBoat2() {
+    print("Row, row, row your boat")
+    print("Gently down the stream")
+}
+
+func merrilyDream2() {
+    print("Merrily, merrily, merrily, merrily")
+    print("Life is but a dream")
+}
+
+func verseTwo() {
+    rowTheBoat()
+    merrilyDream()
+    //verseTwo()
+}
+
+verseOne()

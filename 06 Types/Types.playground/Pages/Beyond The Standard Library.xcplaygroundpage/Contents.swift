@@ -17,3 +17,9 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+
+import Foundation
+let TrainingShoesSize = 42
+let TrainingShoesBrandName = "Nike"
+let TrainingShoesDateReleased = "2020"
+let TrainingShoesPrice = "234 Dollars"

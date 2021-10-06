@@ -46,3 +46,28 @@ verseThree()
  
  [Previous](@previous)  |  page 9 of 12  |  [Next: Wrapup](@next)
 */
+func rowTheCat() {
+    print("Miaw, miaw, miaw, I'm a cat")
+    print("Eating Tuna everyday")
+}
+
+func verse1() {
+    rowTheCat()
+    merrilyDream()
+}
+
+func verse2() {
+    rowTheCat()
+    crocodileScream()
+}
+
+func verse3() {
+    rowTheCat()
+    repetitiveTheme()
+}
+
+verse1()
+breatheBetweenVerses()
+verse2()
+breatheBetweenVerses()
+verse3()

@@ -39,6 +39,11 @@
 
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
+//cannot compiling int with string
+//"Mo" == 3
+//"Mo" != 2
+//cannot combiling string with double
+//"3"== 3.44
 
 
 

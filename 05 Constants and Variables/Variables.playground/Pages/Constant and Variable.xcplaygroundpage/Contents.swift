@@ -31,3 +31,9 @@ In programming, there is an important difference between names that always refer
 
  */
 //: [Previous](@previous)  |  page 2 of 13  |  [Next: Declaring Variables](@next)
+let birthPlace = "Duba"
+var placeOfLiving = "Tabuk"
+var MyAge = "23"
+var FavouriteMovie = "Whiplash"
+let MyFootSize = "4.5"
+let FirstPresdentOfUsa = "George Washington"

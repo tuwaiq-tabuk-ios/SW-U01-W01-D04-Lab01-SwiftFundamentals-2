@@ -33,3 +33,14 @@ let today = Date()
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Wrapup](@next)
 */
+// experiment1
+//import Foundation
+//let today = Date()
+//we cant write the type "Date" without importing the Foundation library
+
+//experiment2
+let someDate = Date() + 0
+print(someDate)
+print(Date() + 100000)
+//After we print the Date we can add meleseconds
+
