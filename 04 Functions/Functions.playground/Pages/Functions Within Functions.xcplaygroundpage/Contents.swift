@@ -22,7 +22,8 @@ func verseOne() {
     merrilyDream()
 }
 
-verseOne()
+
+
 
 
 /*: 
@@ -33,9 +34,14 @@ func laughingSubmarine() {
     print("I’m a submarine")
 }
 
-// Write the verse two function below
-
-
 //: On the next page, learn about one of the things that can go wrong when using functions of functions.
 //:
 //: [Previous](@previous)  |  page 6 of 12  |  [Next: Infinite Loops](@next)
+func verseTwo() {
+    laughingSubmarine()
+}
+
+verseOne()
+verseTwo()
+
+
