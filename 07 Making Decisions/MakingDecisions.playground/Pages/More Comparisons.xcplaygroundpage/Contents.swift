@@ -40,8 +40,7 @@
  - callout(Exercise): Practice writing out some comparison statements of your own. What happens if you try to compare non-integer types, like doubles or strings?
 */
 
-
-
+// Binary operator '<=' cannot be applied to operands of type 'String
 
 //: Learn how to add decision points to your code on the next page.
 //:
