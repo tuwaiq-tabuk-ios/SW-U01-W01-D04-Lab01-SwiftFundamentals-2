@@ -1,3 +1,4 @@
+
 /*:
  ## Constant and Variable
  
@@ -31,3 +32,9 @@ In programming, there is an important difference between names that always refer
 
  */
 //: [Previous](@previous)  |  page 2 of 13  |  [Next: Declaring Variables](@next)
+let Pborn = "riyadh"
+var live = "saudi arabia"
+var age = 25
+var Fmovie = "little women"
+let IncFoot = ""
+var FPOTUS = "George Washington"

@@ -22,7 +22,12 @@
  
  - callout(Exercise): Write some more incorrect addition statements. Before you write each line, try to guess what errors will be produced. Remember to comment out the lines of code from the earlier experiment first.
  */
+//"banana" + 1
+//2 + "2"
 
+
+"banana" + "1"  // Conver operands of type from Int to String
+2 + 2 // Conver operands of type from String to Int
 
 
 

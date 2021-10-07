@@ -21,6 +21,18 @@
  After each round, `print` some statements that your opponents might make. If you can, use the value of your current score in their statements.
  */
 
+import Darwin
+
+var score = 501
+var v = 4 // variable to hold the score
+var sum = 0
+for v in 1...501
+{
+    sum = score - v
+                print (v)
+    
+}
+
 
 
 /*:
