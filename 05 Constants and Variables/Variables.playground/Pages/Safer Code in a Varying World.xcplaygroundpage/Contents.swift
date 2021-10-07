@@ -41,4 +41,27 @@ The second option doesn't leave you with a very useful program, does it?
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Safer Code in an Unexpected World](@next)
 */
+// i keep the friendBeverageChoice as a let constant
+
+let friendBeverageChoice1 = "coffee"
+
+
+driveAcrossTown()
+buyACoffeeMaker()
+
+
+findCoffeeGrinder()
+
+//friendBeverageChoice1 = "water"
+//friendBeverageChoice1 = "sparkling water"
+//friendBeverageChoice1 = "plain water"
+
+findCoffeeBeans()
+driveHome()
+setUpCoffeeGrinder()
+
+//friendBeverageChoice1 = "nothing 😴"
+
+grindBeans()
+makeFriendDrinkCoffee()
 

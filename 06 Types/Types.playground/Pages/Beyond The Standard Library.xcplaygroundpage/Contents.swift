@@ -17,3 +17,7 @@
  
 [Previous](@previous)  |  page 10 of 13  |  [Next: Importing Frameworks](@next)
 */
+// TrainingSuit
+// might use an Int for a size , a String for a brand name
+//CookingRicepe
+//a String for Recipe ingredients , Int for number of ingredients .

@@ -7,6 +7,9 @@
 */
 let name = "Johnny"
 name = "John"
+
+
+
 /*:
  The error in the gutter looks a little different than normal.
  
@@ -29,5 +32,6 @@ name = "John"
 Next, see if you should always accept a Fix-it?
  
  */
-
+var name1 = "Johnny"
+name1 = "John"
 //: [Previous](@previous)  |  page 7 of 13  |  [Next: You Make the Choice](@next)

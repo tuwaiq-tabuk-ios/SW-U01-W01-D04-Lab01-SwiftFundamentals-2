@@ -30,3 +30,10 @@ verseOne()
  
  [Previous](@previous)  |  page 7 of 12  |  [Next: Hiding Complexity](@next)
 */
+
+
+func verseOne1() {
+    rowTheBoat()
+    merrilyDream()
+    verseOne1()
+}

@@ -6,13 +6,13 @@
  Consider this program for recording and calculating scores in a game:
 */
 // Scores for each target
-var scoreForGreen = 5
+let scoreForGreen = 5
 var scoreForRed = 10
-var scoreForGold = 20
+let  scoreForGold = 20
 
 // Player scores
 var scoreForGary = 0
-var scoreForRob = 0
+var scoreForRob = 5
 
 // Game events here
 scoreForGary += scoreForRed
