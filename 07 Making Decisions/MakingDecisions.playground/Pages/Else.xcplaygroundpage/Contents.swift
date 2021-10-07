@@ -36,3 +36,34 @@ if videoLength < 5 {
  
 [Previous](@previous)  |  page 6 of 13  |  [Next: Else If](@next)
 */
+
+// Change the value of videoLength again. Confirm that the same results are shown from the multiple if statements and the if / else statement.
+
+let videoLength1 = 7
+
+if videoLength1 < 5 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}
+
+if videoLength1 >= 5 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}
+
+// Change the values that videoLength is compared to by changing all the 5 values to other values. Try to make both messages from the top if statements appear at the same time.
+
+
+if videoLength1 < 3 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}
+
+if videoLength1 >= 3 {
+    "If I blinked, I'd miss it."
+} else {
+    "That's lovely."
+}

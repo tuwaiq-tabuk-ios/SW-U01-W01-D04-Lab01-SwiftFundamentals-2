@@ -6,9 +6,9 @@
  Consider this program for recording and calculating scores in a game:
 */
 // Scores for each target
-var scoreForGreen = 5
-var scoreForRed = 10
-var scoreForGold = 20
+let scoreForGreen = 5
+let scoreForRed = 10
+let scoreForGold = 20
 
 // Player scores
 var scoreForGary = 0
@@ -20,7 +20,7 @@ scoreForGary += scoreForGreen
 scoreForGary += scoreForGold
 
 scoreForRob += scoreForRed
-scoreForRed += scoreForGreen
+scoreForRob += scoreForGreen
 scoreForRob += scoreForGold
 
 scoreForGary += scoreForRed
@@ -38,7 +38,32 @@ scoreForGary
  _Hint: Try defining the target scores at the start of the program with `let` instead of `var`_
 */
 
-
-
-
 //: [Previous](@previous)  |  page 10 of 13  |  [Next: Wrapup](@next)
+
+let targetScoreForGreen = 5
+let targetScoreForRed = 10
+let targetScoreForGold = 20
+
+// Player scores
+var scoreForGary2 = 0
+var scoreForRob2 = 0
+
+// Game events here
+scoreForGary2 += targetScoreForRed
+scoreForGary2 += targetScoreForGreen
+scoreForGary2 += targetScoreForGold
+
+scoreForRob += targetScoreForRed
+scoreForRob += targetScoreForGreen
+scoreForRob += targetScoreForGold
+
+scoreForGary += targetScoreForRed
+scoreForGary += targetScoreForGreen
+scoreForGary += targetScoreForGold
+
+scoreForRob += targetScoreForRed
+scoreForRob += targetScoreForGreen
+scoreForRob += targetScoreForGold
+
+scoreForRob
+scoreForGary

@@ -27,9 +27,11 @@ func rowTheBoat() {
 
 */
 
-
-
-
+func printSomethingToTheConsole() {
+    print( "My name is ameera" )
+}
+ 
+printSomethingToTheConsole()
 
 
 

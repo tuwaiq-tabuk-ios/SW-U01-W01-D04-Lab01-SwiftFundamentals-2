@@ -46,3 +46,54 @@ verseThree()
  
  [Previous](@previous)  |  page 9 of 12  |  [Next: Wrapup](@next)
 */
+
+func rowTheBoat1() {
+    print("Row, row, row your boat")
+    print("Gently down the stream")
+}
+
+func verseOne1() {
+    rowTheBoat()
+    merrilyDream()
+}
+
+func verseTwo2() {
+    rowTheBoat()
+    crocodileScream()
+}
+
+func verseThree3() {
+    rowTheBoat()
+    repetitiveTheme()
+}
+
+verseOne()
+breatheBetweenVerses()
+verseTwo()
+breatheBetweenVerses()
+verseThree()
+
+func rowTheBoat2() {
+    print( "verb, verb, verb “your” noun " )
+    print("la la la la rhyme" )
+}
+
+func verseOne2() {
+    rowTheBoat2()
+    merrilyDream()
+}
+
+func verseTwo3() {
+    rowTheBoat2()
+    crocodileScream()
+}
+
+func verseThree4() {
+    rowTheBoat2()
+    repetitiveTheme()
+}
+verseOne()
+breatheBetweenVerses()
+verseTwo()
+breatheBetweenVerses()
+verseThree()

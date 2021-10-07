@@ -31,3 +31,9 @@ Next, see if you should always accept a Fix-it?
  */
 
 //: [Previous](@previous)  |  page 7 of 13  |  [Next: You Make the Choice](@next)
+
+var yearBirth = 1997
+
+yearBirth = 1998
+
+

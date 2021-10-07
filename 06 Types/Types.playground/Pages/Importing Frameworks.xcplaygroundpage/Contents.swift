@@ -33,3 +33,13 @@ let today = Date()
  
 [Previous](@previous)  |  page 11 of 13  |  [Next: Wrapup](@next)
 */
+
+let someDate = Date() + 10
+
+let someDate2 = Date() + 525600
+
+let someDate3 = Date() - 10
+
+let someDate4 = Date() - 525600
+
+
