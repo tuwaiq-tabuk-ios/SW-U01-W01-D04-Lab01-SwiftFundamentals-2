@@ -38,3 +38,26 @@ if videoLength >= 5 {
 
 [Previous](@previous)  |  page 5 of 13  |  [Next: Else](@next)
 */
+ 
+let videoLength1 = 6
+
+if videoLength1 < 5 {
+    "If I blinked, I'd miss it!"
+}
+
+if videoLength1 >= 5 {
+    "That's lovely."
+}
+
+/* What happens if you change the comparison in the first example, so it complains about videos shorter than 10 seconds? What happens if you then set the videoLength to 8? */
+
+
+let videoLength2 = 8
+
+if videoLength2 < 10 {
+    "If I blinked, I'd miss it!"
+}
+
+if videoLength2 >= 10 {
+    "That's lovely."
+}

@@ -46,3 +46,28 @@
 //: Learn how to add decision points to your code on the next page.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: Conditionals](@next)
+// Less than
+4 < 8
+8 < 4
+
+// More than
+3 > 7
+7 > 3
+
+// Not equal
+4 != 4
+4 != 6
+
+// Less than or equal to
+7 <= 6
+7 <= 7
+
+// More than or equal to
+2 >= 0
+5 >= 9
+
+//What happens if you try to compare non-integer types, like doubles or strings?
+
+// 1.6 <= " Name "
+
+
