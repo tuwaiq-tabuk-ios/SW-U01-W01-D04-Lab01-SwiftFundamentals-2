@@ -24,3 +24,9 @@
  
 [Previous](@previous)  |  page 9 of 13  |  [Next: Beyond the Standard Library](@next)
 */
+let MyName = "Marzouq"
+var MyAge = 25
+
+
+
+

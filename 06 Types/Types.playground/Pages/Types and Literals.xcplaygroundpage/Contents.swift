@@ -35,3 +35,17 @@ floatPi
 //: Next, find out another way Swift decides on types.\
 //:\
 //: [Previous](@previous)  |  page 6 of 13  |  [Next: Type Inference from Assignment](@next)
+
+// Swift Can't applid operands of type 'Double' and 'Int'
+
+let partNumber2 = 3.2
+let wholeNumber2 = 2
+//partNumber2 + wholeNumber2
+
+
+
+let partNumber3 = 3
+let wholeNumber3 = 2
+partNumber3 + wholeNumber3
+
+

@@ -23,3 +23,6 @@
  
  page 1 of 12  |  [Next: Calling a Function](@next)
  */
+// simple phrases that represent much
+
+let simple = "make a sandwich"

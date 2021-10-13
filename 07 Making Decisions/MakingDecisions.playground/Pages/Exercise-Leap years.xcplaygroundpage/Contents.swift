@@ -17,6 +17,16 @@
 func isLeapYear(_ year: Int) -> Bool {
     if number(year, isDivisibleBy: 4) {
         // Fill in this code...
+        if number(year, isDivisibleBy: 100){
+             if number(year, isDivisibleBy: 400){
+                
+             }else{
+                return false
+            }
+        }else{
+            return true
+        }
+        
         return true
     } else {
         return false
@@ -30,6 +40,7 @@ isLeapYear(1900)
 isLeapYear(2012)
 // Should be false
 isLeapYear(2017)
+
 //: - callout(Exercise): Complete the function above so that the rules are all followed and the examples get the correct answers.
 /*:
  

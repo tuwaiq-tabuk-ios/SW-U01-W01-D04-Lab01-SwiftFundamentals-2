@@ -46,3 +46,10 @@
 //: Learn how to add decision points to your code on the next page.
 //:
 //: [Previous](@previous)  |  page 4 of 13  |  [Next: Conditionals](@next)
+// What happens if you try to compare non-integer types, like doubles or strings?
+//cannot be applied to operands of type 'String' and 'Doubles'
+"marzouq" == 5.5
+"marzouq" != 5.1
+"marzouq" <= 5.7
+
+
